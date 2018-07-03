@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="TEI_gjs_vp3_2p" xml:lang="is" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="is">
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <authority>LCLV19</authority>
+                <idno/>
+            </publicationStmt>
+            <notesStmt>
+                <note>The author writes himself "Guðmundarson" but is "Guðmundsson" in Stúdentatal
+                    1896.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository ref="org:Þjskjs"/>
+                        <collection>Hinn lærði skóli í Reykjavík (1846-1904)</collection>
+                        <idno/>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date type="written" when="1847" cert="high"/>
+                <persName type="author" ref="psn:person_jnh_x5j_lp"/>
+                <settlement type="written" ref="plc:place_zdf_tvj_lp"/>
+            </creation>
+            <textClass>
+                <catRef/>
+            </textClass>
+            <handNotes>
+                <handNote xml:id="student" scribeRef="psn:person_jnh_x5j_lp" scope="sole"/>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <facsimile xml:base="../../../XML%20skólastílar/transcriptions/1847-1848/">
+        <graphic mimeType="image/jpeg" url="IMAG0613.jpg" xml:id="image_002"/>
+        <graphic mimeType="image/jpeg" url="IMAG0614.jpg" xml:id="image_003"/>
+        <graphic mimeType="image/jpeg" url="IMAG0615.jpg" xml:id="image_004"/>
+        <graphic mimeType="image/jpeg" url="IMAG0616.jpg" xml:id="image_005"/>
+        <graphic mimeType="image/jpeg" url="IMAG0617.jpg" xml:id="image_006"/>
+        <graphic mimeType="image/jpeg" url="IMAG0618.jpg" xml:id="image_007"/>
+        <graphic mimeType="image/jpeg" url="IMAG0619.jpg" xml:id="image_008"/>
+        <graphic mimeType="image/jpeg" url="IMAG0620.jpg" xml:id="image_009"/>
+        <graphic mimeType="image/jpeg" url="IMAG0621.jpg" xml:id="image_010"/>
+        <graphic mimeType="image/jpeg" url="IMAG0622.jpg" xml:id="image_011"/>
+        <graphic mimeType="image/jpeg" url="IMAG0623.jpg" xml:id="image_012"/>
+        <graphic mimeType="image/jpeg" url="IMAG0624.jpg" xml:id="image_013"/>
+        <graphic mimeType="image/jpeg" url="IMAG0625.jpg" xml:id="image_014"/>
+        <graphic mimeType="image/jpeg" url="IMAG0626.jpg" xml:id="image_015"/>
+        <graphic mimeType="image/jpeg" url="IMAG0627.jpg" xml:id="image_016"/>
+        <graphic mimeType="image/jpeg" url="IMAG0628.jpg" xml:id="image_017"/>
+        <graphic mimeType="image/jpeg" url="IMAG0629.jpg" xml:id="image_018"/>
+        <graphic mimeType="image/jpeg" url="IMAG0630.jpg" xml:id="image_019"/>
+        <graphic mimeType="image/jpeg" url="IMAG0631.jpg" xml:id="image_020"/>
+        <graphic mimeType="image/jpeg" url="IMAG0632.jpg" xml:id="image_021"/>
+        <graphic mimeType="image/jpeg" url="IMAG0633.jpg" xml:id="image_022"/>
+        <graphic mimeType="image/jpeg" url="IMAG0634.jpg" xml:id="image_023"/>
+        <graphic mimeType="image/jpeg" url="IMAG0635.jpg" xml:id="image_024"/>
+        <graphic mimeType="image/jpeg" url="IMAG0636.jpg" xml:id="image_025"/>
+        <graphic mimeType="image/jpeg" url="IMAG0637.jpg" xml:id="image_026"/>
+        <graphic mimeType="image/jpeg" url="IMAG0638.jpg" xml:id="image_027"/>
+        <graphic mimeType="image/jpeg" url="IMAG0639.jpg" xml:id="image_028"/>
+        <graphic mimeType="image/jpeg" url="IMAG0640.jpg" xml:id="image_029"/>
+        <graphic mimeType="image/jpeg" url="IMAG0641.jpg" xml:id="image_030"/>
+        <graphic mimeType="image/jpeg" url="IMAG0642.jpg" xml:id="image_031"/>
+        <graphic mimeType="image/jpeg" url="IMAG0643.jpg" xml:id="image_032"/>
+        <graphic mimeType="image/jpeg" url="IMAG0644.jpg" xml:id="image_033"/>
+        <graphic mimeType="image/jpeg" url="IMAG0645.jpg" xml:id="image_034"/>
+        <graphic mimeType="image/jpeg" url="IMAG0646.jpg" xml:id="image_035"/>
+        <graphic mimeType="image/jpeg" url="IMAG0647.jpg" xml:id="image_036"/>
+    </facsimile>
+    <text xml:lang="is">
+        <body>
+            <div type="assignment" facs="#image_004">
+                <p>Lögmál þýðir vissar reglur, sem mennirnir eiga ad laga eptir <lb break="yes"
+                    />gjörvalla háttsemi sína; lögmálið er bæði bjóðandi og bannandi, <lb break="yes"
+                    />því þad segir t.a.m. "þú átt að elska drottinn gud þinn o.s.fr. <lb break="yes"
+                    />og þú átt ekki ad tilbyðja hjáguði eða skurðgoð" þannig segir <lb break="yes"
+                    />lögmálid hvad mennirnir eigi ad gjöra, og hvað þeir eigi að <lb break="yes"
+                    />varast; lögmálið dæmir breytni þeirra, og segir þá seka við guð, <lb break="yes"/>þegar þeir breyta ekki samkvæmt því, sem lögmálið býður; lög<lb
+                        break="no"/>málid heimtar, að mennirnir breyti samkvæmt öllum þess <lb break="yes"/>boðorðum; en af því eingi syndugur maður getur breytt al<lb
+                        break="no"/>gjörlega eptir lögmálinu, þá hefir lögmálið fólginn í sér <lb break="yes"/>krapt til dauðans, sem ad er syndarinnar hegníng.
+                        Heilög <lb break="yes"/>ritníng kallar líka lögmálið, hinn gamla sáttmála,
+                        milli <lb break="yes"/>guds, og hans þjóðar gyðínganna. <hi
+                        rend="wavy-underling">Evangelium</hi> er eptir <lb break="yes"/>orðsins
+                    þýðíngu, <hi rend="wavy-underling">gleðifregn</hi>, en i takmarkaðri þýðingu, er
+                        <hi rend="wavy-underling">evan<lb break="no"/>gelium</hi> fregnin um það,
+                    þegar frelsari mannanna Jesus <lb break="yes"/>Kristur, kom i heiminn, til ad
+                    frelsa mennina úr synd<lb break="no"/>arinnar ánauð, og frá lögmálsins bölvan;
+                        evangelium <lb break="yes"/>er og kenníng frelsarans, er sýnir mönnunum í
+                        nýrri <pb n="4" facs="#image_005"/>mynd sambandið milli guds og þeirra, og
+                    vísar þeim nýa <lb break="yes"/>leid til föðursins fyrir sonarins meðalgaungu. Jesus <lb break="yes"/>sannar með kenníngu sinni,
+                    helgi og guðdómleik lög <lb break="yes"/>málsins, því hann segist ekki vera
+                    kominn til að gjöra <lb break="yes"/>lögmálið ad eingu, heldur til ad fullkomna
+                    þad; <hi rend="wavy-underling">evangel <lb break="yes"/>ium</hi> er þvi
+                    fullkomnun lögmálsins; það er kraptur guds <lb break="yes"/>til sáluhjálpar þeim,
+                    sem trúa. Lögmálið er að því leyti <lb break="yes"/>fólgið í <hi
+                        rend="wavy-underling">evangelio</hi>, sem Jesú kenníng er samkvæm lög <lb break="yes"
+                    />málsins
+                        <add place="above" hand="#student">boðordum</add> en <hi
+                        rend="wavy-underling">evangelium</hi> er fólgið i lögmálinu, ad því
+                        leyti, <lb break="yes"/>sem í lögmálinu eru fyrirheit guds, um frelsi
+                        mannanna, <lb break="yes"/>og mörg fridþægíngar meðöl, er áttu að tákna þá
+                        fullkomnu <lb break="yes"/>friðþægíng, er Jesús gjörði fyrir mannkynið.
+                        Lögmálið <lb break="yes"/>gjörði mennina hæfilegri til að taka á móti
+                        náðarkenn<lb break="no"/>íngu frelsarans, og færa sér hana i nyt, því það
+                        sýndi <lb break="yes"/>þeim frammá, ad þeir væru brotlegir vid gud, og
+                        þyrftu <lb break="yes"/>náðar vid. Jesús segir: ad þeir sem hafi medtekið
+                    sína kenn<lb
+                        break="no"/>íngu, og breyti samkvæmt henni, séu ekki undir
+                        lögmál<lb break="no"/>inu. Samkvæmt lögmálinu eru það verkin ein, er
+                        gjöra <lb break="yes"/>mennina hólpna, en samkvæmt <hi rend="wavy-underling"
+                        >evangelio</hi> er það trúin <pb n="5" facs="#image_006"/>á Jesnum Krist og
+                    hans
+                    fridþægíngu, sem gjörir mennina <lb break="yes"/>hólpna, þegar
+                    þad er sú trú, sem sýnir krapt sinn í guð<lb break="no"/>rækilegu líferni.</p>
+                <p>Jakob Guðmundarson</p>
+            </div>
+        </body>
+    </text>
+</TEI>

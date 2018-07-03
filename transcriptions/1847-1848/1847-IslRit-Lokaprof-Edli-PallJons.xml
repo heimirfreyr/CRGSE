@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="TEI_zhs_d2q_lp" xml:lang="is" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="is">
+        <fileDesc>
+            <titleStmt>
+                <title>Ad útlista þýdíngu, samband, krapt og edli lögmálsins og evangelii.</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>LCLV19</authority>
+                <idno/>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository ref="org:org_Þjskjs"/>
+                        <collection>Hinn lærði skóli í Reykjavík (1846-1904)</collection>
+                        <idno/>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date type="written" when="1847"/>
+                <persName type="author" ref="psn:person_xxr_ybw_lp"/>
+                <settlement type="written" ref="plc:place_zdf_tvj_lp"/>
+            </creation>
+            <textClass>
+                <catRef/>
+            </textClass>
+            <handNotes>
+                <handNote xml:id="teacher" scribeRef="psn:person_m3f_42w_lp" scope="minor"/>
+                <handNote xml:id="student" scribeRef="psn:person_xxr_ybw_lp" scope="major"/>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <facsimile xml:base="../../../XML%20skólastílar/transcriptions/1847-1848/">
+        <graphic mimeType="image/jpeg" url="IMAG0613.jpg" xml:id="image_004"/>
+        <graphic mimeType="image/jpeg" url="IMAG0614.jpg" xml:id="image_005"/>
+        <graphic mimeType="image/jpeg" url="IMAG0615.jpg" xml:id="image_006"/>
+        <graphic mimeType="image/jpeg" url="IMAG0616.jpg" xml:id="image_007"/>
+        <graphic mimeType="image/jpeg" url="IMAG0617.jpg" xml:id="image_008"/>
+        <graphic mimeType="image/jpeg" url="IMAG0618.jpg" xml:id="image_009"/>
+        <graphic mimeType="image/jpeg" url="IMAG0619.jpg" xml:id="image_010"/>
+        <graphic mimeType="image/jpeg" url="IMAG0620.jpg" xml:id="image_011"/>
+        <graphic mimeType="image/jpeg" url="IMAG0621.jpg" xml:id="image_012"/>
+        <graphic mimeType="image/jpeg" url="IMAG0622.jpg" xml:id="image_013"/>
+        <graphic mimeType="image/jpeg" url="IMAG0623.jpg" xml:id="image_014"/>
+        <graphic mimeType="image/jpeg" url="IMAG0624.jpg" xml:id="image_015"/>
+        <graphic mimeType="image/jpeg" url="IMAG0625.jpg" xml:id="image_016"/>
+        <graphic mimeType="image/jpeg" url="IMAG0626.jpg" xml:id="image_017"/>
+        <graphic mimeType="image/jpeg" url="IMAG0627.jpg" xml:id="image_018"/>
+        <graphic mimeType="image/jpeg" url="IMAG0628.jpg" xml:id="image_019"/>
+        <graphic mimeType="image/jpeg" url="IMAG0629.jpg" xml:id="image_020"/>
+        <graphic mimeType="image/jpeg" url="IMAG0630.jpg" xml:id="image_021"/>
+        <graphic mimeType="image/jpeg" url="IMAG0631.jpg" xml:id="image_022"/>
+        <graphic mimeType="image/jpeg" url="IMAG0632.jpg" xml:id="image_023"/>
+        <graphic mimeType="image/jpeg" url="IMAG0633.jpg" xml:id="image_024"/>
+        <graphic mimeType="image/jpeg" url="IMAG0634.jpg" xml:id="image_025"/>
+        <graphic mimeType="image/jpeg" url="IMAG0635.jpg" xml:id="image_026"/>
+        <graphic mimeType="image/jpeg" url="IMAG0636.jpg" xml:id="image_027"/>
+        <graphic mimeType="image/jpeg" url="IMAG0637.jpg" xml:id="image_028"/>
+        <graphic mimeType="image/jpeg" url="IMAG0638.jpg" xml:id="image_029"/>
+        <graphic mimeType="image/jpeg" url="IMAG0639.jpg" xml:id="image_030"/>
+        <graphic mimeType="image/jpeg" url="IMAG0640.jpg" xml:id="image_031"/>
+        <graphic mimeType="image/jpeg" url="IMAG0641.jpg" xml:id="image_032"/>
+        <graphic mimeType="image/jpeg" url="IMAG0642.jpg" xml:id="image_033"/>
+        <graphic mimeType="image/jpeg" url="IMAG0643.jpg" xml:id="image_034"/>
+        <graphic mimeType="image/jpeg" url="IMAG0644.jpg" xml:id="image_035"/>
+        <graphic mimeType="image/jpeg" url="IMAG0645.jpg" xml:id="image_036"/>
+        <graphic mimeType="image/jpeg" url="IMAG0646.jpg" xml:id="image_037"/>
+        <graphic mimeType="image/jpeg" url="IMAG0647.jpg" xml:id="image_038"/>
+    </facsimile>
+    <text xml:lang="is">
+        <body>
+            <div type="assignment" facs="#image_014">
+                <p>Þegar talad er um þá tvo adalkafla ritníngar<lb break="no"/>innar, <hi
+                        rend="underling">lögmálid</hi> og "<hi rend="underling">evangelium</hi>", þá
+                    má taka <lb break="yes"/>hvorttveggju í tvennri þýdíngu, annadhvort <lb break="yes"/>þreingri eda rýmri. - Lögmál köllum vèr fyrst <lb break="yes"
+                    />og fremst laga-bod þau 10, er gud reit á stein<lb break="no"/>töflurnar á
+                    Sínaífjalli og fèkk í hendur Mói<lb break="no"/>sesi; og í annan stad nefnum vèr
+                    þessu nafni <lb break="yes"/>öll Móisesarlög, er ritud eru í bókum þeim í <lb break="yes"/>upphafi "biblíu" vorrar, er kenndar eru vid Móí<lb break="no"
+                    />ses; og í sambandi vid þessar bækur standa þá <lb break="yes"/>adrar helgar
+                    bækur gamla testamentisins, sem <lb break="yes"/>teknar voru til jafns vid
+                    Móísesar-bækur. - I hv<unclear reason="overwriting" hand="#student"
+                        >o</unclear>ri- <lb break="yes"/>þýdíngunni sem ordid lögmál er tekid,
+                        liggur <lb break="yes"/>hèrumbil sama <del hand="#student">þ</del> í því - I
+                    10 lagabodordunum <pb facs="#image_015" n="2"/>er Gydíngum bodid ad trúa á einn
+                    gud, og <lb break="yes"/>veita honum einum tignun og tilbeidslu, en <lb break="yes"/>eingum ödrum; þar eru og teknar fram <lb break="yes"/>allar ær
+                    helztu skyldur, er Gydíngar áttu ad <lb break="yes"/>rækja bædi vid gud sinn, og
+                    svo hvor þeirra <lb break="yes"/>vid annan, og lagt bann vid því, er þeir <lb break="yes"/>skyldu fordast<supplied><pc force="weak">.</pc></supplied> -
+                    Lög þau, er Móíses samdi <lb break="yes"/>sídan, eda honum eru eignud, eru ritud
+                    í sama <lb break="yes"/>anda og 10-laga-bodin, og eru sama inni<lb break="no"
+                    />halds, ad adalefninu til<supplied><pc force="weak">.</pc></supplied> - Þau
+                    mida öll til ad <lb break="yes"/>styrkja eingydis-trúna hjá Gydíngum, og vid<lb
+                        break="no"/>halda henni, en reisa sem ramastar skordur <lb break="yes"/>vid
+                    því, ad Gydíngar blöndudust saman vid <lb break="yes"/>adrar þjódir heiðnar, er
+                    nærri þeim bjuggu <lb break="yes"/>og misstu þannig þjóderni sitt, en hneigdust
+                        til <lb break="yes"/>afgudadýrkunar og margydistrúar. - Lögmálid <lb break="yes"/>leggur því ríkt á, ad Gydíngar haldi trúlega <lb break="yes"
+                    />allar þær trúarbragdavenjur og þjódsidu, er skyldu <lb break="yes"/>einkenna þá
+                    frá ödrum þjódum, og forda þeim <lb break="yes"/>vid ad gleima trú sinni. -
+                    Lögmál Gydínga, - eins <pb n="3" facs="#image_016"/>og þad er í Móísesbókunum -,
+                    er lög þau, sém <lb break="yes"/>gud drottinn - Jehovah - setti <del
+                        hand="#student">Gydíngum</del> þeim, eins <lb break="yes"/>og t.a.m.
+                    jardneskur konúngur setur lög þegnum <lb break="yes"/>sínum<supplied><pc
+                            force="weak">.</pc></supplied> - Móíses bar fram lögin í nafni
+                        drottins, <lb break="yes"/>en gaf þau ekki út undir sínu nafni, eins og <lb break="yes"/>sín lög<supplied><pc force="weak">.</pc></supplied> - "Jehovah"
+                    er ekki einúngis skapari <lb break="yes"/>Gydínga<del hand="#student">,</del> og
+                    gud heldur lika konungur þeirra; <lb break="yes"/>hann talar vid Móíses eins og
+                    madur talar vid <lb break="yes"/>mann, en Móíses geingur aptur á milli <lb break="yes"/>hans og þjódarinnar, framber bænir hennar fyr<lb break="no"/>ir
+                    hann, og flytur svo þjódinni optar svör hans<supplied><pc force="weak"
+                        >.</pc></supplied> - </p>
+                <p>Stjórn Gydínga er konúngsstjórn, og konúngur <lb break="yes"/>þeirra, gud drottinn
+                    "Jehovah", er einvaldur yfir <lb break="yes"/>þeim<supplied><pc force="weak"
+                            >.</pc></supplied> - Hann er vandlátur og geingur ríkt eptir <lb break="yes"/>ad lifad sè eptir bodum sínum, og í eingu frá <lb break="yes"/>þeim vikid (v: útaf brugdid:)<supplied><pc
+                            force="weak">.</pc></supplied> Hverjum þeim, er upp<lb break="no"
+                    />fyllir lögmálid, er heitid miskun og launum í <lb break="yes"/>þúsundasta lid,
+                    en aptur á móti er hinum, er <lb break="yes"/>brjóta þad heitid hegníngum, og
+                    niðjum þeirra ept<lb break="no"/>ir þeirra dag. En lögmálið leggur þeim einga <pb
+                        n="4" facs="#image_017"/>líkn eda bót, en heimtar ad eins, ad fullnægt sè <lb break="yes"/>rèttlæti guds<supplied><pc force="weak">.</pc></supplied> -
+                    Mannkynid, sem hefur brotid <lb break="yes"/>lögmálid liggur þá <unclear
+                        reason="hand" hand="#student">svana</unclear> fallid og sært, og getur <lb break="yes"/>einga björg veitt sèr, og sèr ekki annad upp ad <lb break="yes"
+                    />munum, en þad hljóti ad verda eilífum dauda <lb break="yes"/>ad herfángi; þad
+                    þarf hjálpar og grædslu; þad <lb break="yes"/>þarf "evangelium" til ad frelsa sig
+                    og hugga. -</p>
+                <p>"Evangelium" (<foreign xml:lang="gr">to evangalios</foreign>) er haft í
+                        takmark<lb break="no"/>adri þýdíngu um gudspjöllin 4. og "postulagjörn<lb
+                        break="no"/>íngabókina, en í rýmra skilníngi táknar <lb break="yes"/>ordid fagnadarbodskapinn um komu Krists <lb break="yes"/>og guds ríkis í heiminn, og allt þad, sem gud <lb break="yes"
+                    />hefur látid "soninn" kunngjöra mannkyninu <lb break="yes"/>um hans eilífu
+                    rádsalyktanir til ad frelsa þad <lb break="yes"/>úr ánaud syndarinnar, og leida
+                    þad aptur á <lb break="yes"/>veg farsældar og fullkomnunar<supplied><pc
+                            force="weak">.</pc></supplied> - "Evangelium" er <lb break="yes"
+                    />fagnadar-bodskapur og frelsisbodskapur; þad færir <lb break="yes"/>oss ljós í
+                    stadinn fyrir myrkur; eilíft ljós, <lb break="yes"/>sem verdur því bjartara og
+                    skírra fyrir hugsjón <lb break="yes"/>vorri, sem vèr skoum þad leingur og
+                        betur; <lb break="yes"/>þad er frelsisbodskapur, því þad bodar oss, ad vèr <pb
+                        n="5" facs="#image_007 #image_018"/>eigum kost á ad frelsast undan valdi
+                        syndarinn<lb break="no"/>ar, er vèr f<del>j</del>èllum í vid þad er vèr
+                        brutum <lb break="yes"/>lögmálid; þad kennir oss hvernig vèr eigum <lb break="yes"/>ad fara ad til ad ná þessu frelsi; þad kennir <lb break="yes"
+                    />oss, ad gud er ekki einúngis réttlátur gud og <lb break="yes"/>vandlátur,
+                    heldur er hann líka gódur og miskun<lb break="no"/>samur fadir, sem elskar
+                    mannkynid, og vill <lb break="yes"/>ad þad nái ákvördun sinni: eilífri farsæld og
+                        full<lb break="no"/>komnun<supplied><pc force="weak">.</pc></supplied> -
+                    Evangelium huggar oss og styrkir; þad <lb break="yes"/>kennir oss, ad gud sè
+                    máttugur í þeim sem veik<lb break="no"/>ir eru, og hann gefi bædi viljann og
+                        máttinn <lb break="yes"/>til hins góda; þad er ad segja med því móti, <lb break="yes"/>ad madurinn spyrni ekki sjálfur á móti adstod <lb break="yes"
+                    />guds, og slökkvi andann<supplied><pc force="weak">.</pc></supplied> - Þannig
+                    kennir "evan<lb break="no"/>gelium" oss, ad gud er gódur og miskunsamur <lb break="yes"/>fadir, sem elskadi oss svo heitt ad fyrra bragdi, <lb break="yes"/><del hand="#student">ad hann gaf</del> medan vèr enn vorum börn <lb break="yes"/>myrkursins, ad hann gaf sinn eingetinn <lb break="yes"
+                    />son í daudann fyrir oss, til ad uppfylla lögmál<lb break="no"/>id fyrir vora
+                    hönd, og sætta oss vid gud<supplied><pc force="weak">.</pc></supplied> - <lb break="yes"/>Þannig er þá lögmalid deydandi, en "evange<lb break="no"/> <pb
+                        n="6" facs="#image_019"/>lium" lífgandi<supplied><pc force="weak"
+                        >.</pc></supplied> - En þó <hi rend="underling">lögmálid</hi> og
+                        "evangelium" <lb break="yes"/>hafi nú svona ólíkar verkanir, þá stendur þó <lb break="yes"/>hvorttveggju í nánu sambandi<supplied><pc force="weak"
+                        >.</pc></supplied> - Þad eru <lb break="yes"/>ad sönnu einstök lagabod i
+                    Móísesar lögmáli, <lb break="yes"/>sem eigi gylda fyrir oss, af því þau voru
+                        ein<lb break="no"/>midt stílud fyrir Gyd., og geta ei átt vid adrar <lb break="yes"/>þjódir, eda adra tíma; svo er t. a. m. um <lb break="yes"/>
+                    margar útvortis<metamark function="split">|</metamark>trúarbragdavenjur Gyd. og
+                        fórnar<lb break="no"/>sidu o. fl. En andi lögmálsins stendur enn <lb break="yes"/>óhaggadur, og mun ætid standa, því guds <lb break="yes"/>ord eru
+                    ævarandi; hann stendur í fullu gyldi <lb break="yes"/>ad því leyti, sem skyldur
+                    vorar snertir vid gud, <lb break="yes"/>vid sjálfa oss, og náúnga
+                            vorn<supplied><pc force="weak">.</pc></supplied> - Kristur er <lb break="yes"/>eigi kominn í heiminn til ad nidurbrjóta <lb break="yes"
+                    />lögmalid, heldur til ad uppfylla þad. Lögmálid <lb break="yes"/>og "evangelium"
+                    getur því stadizt samhlida; <lb break="yes"/>vèr meigum hvorugs
+                            missa<supplied><pc force="weak">.</pc></supplied> - Vèr þurfum <lb break="yes"/>lögmálsins til ad minna oss á hid góda og <lb break="yes"/>vara
+                    oss vid þvi ílla, til ad halda vakandi fyr<lb break="no"/>ir oss þeirri hugsun,
+                    ad hid goda leidir oss <pb n="7" facs="#image_020"/>til farsældar, en hid ílla
+                    aptur á móti til <lb break="yes"/>ófarsældar<supplied><pc force="weak"
+                        >.</pc></supplied> - Vèr þurfum ad hafa lögmálid <lb break="yes"/>til ad bera
+                    athafnir vorar saman vid þad, og rann<lb break="no"/>saka brot vor; þad sýnir
+                    oss sekt vora; en <lb break="yes"/>þá reisir "evangelium" oss á fætur aptur,
+                        og <lb break="yes"/>opnar oss veg til ad komast aptur í sátt vid <lb break="yes"/>gud, og ödlast fyrirgefníngu synda vorra, þeirra, <lb break="yes"/>er vèr drýgdum móti lögmáli hans<supplied><pc force="weak"
+                            >.</pc></supplied> -</p>
+                <p>Lögmálid er sameinad <del cause="fix" rend="underlining" hand="#teacher"
+                        >vid</del> fagnadarbodskapinn <lb break="yes"/>i N. T. skyldur vorar eru þar
+                    opt og skorinnordt <lb break="yes"/>brýndar fyrir oss; þar segir medal annars: <lb break="yes"/>"þú átt ad elska drottinn gud þinn eins<lb break="no"/>og
+                    sjálfan þig." og s. fr.v. Þad er bodord elsk<lb break="no"/>unnar, sem einkum er
+                    tekid fram í N.T. <lb break="yes"/>og Jóh. segir: "í því er elskan til guds
+                        fólgin <lb break="yes"/>ad vér höldum hans bodord" o. s. fr.v.</p>
+                <p>Þad er þá í fám ordum edli lögmálsins <lb break="yes"/>ad sýna og særa, med því
+                    þad sýnir oss <lb break="yes"/>syndirnar og hegníngu þá, er oss sè búin <lb break="yes"/>fyrir þær; en "evangelium" huggar og <pb n="8" facs="#image_021"
+                    />og fridar og bídur öllum líkn sem eru <lb break="yes"/>mæddir og <del
+                        hand="#student">þúngir</del> þjást af þúnga syndanna.</p>
+                <p>Páll Jónsson</p>
+            </div>
+        </body>
+    </text>
+</TEI>

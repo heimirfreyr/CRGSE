@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="TEI_dlv_hj1_sp" xml:lang="is" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Audveldara er úlfaldanum að ganga gegnum nálarauga, en ríkum manni inní
+                    himna-ríki.</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>LCLV19</authority>
+                <idno/>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository ref="org:Þjskjs"/>
+                        <collection>Hinn lærði skóli í Reykjavík (1846-1904)</collection>
+                        <idno/>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <profileDesc>
+            <creation>
+                <date type="written" when="1848" cert="high"/>
+                <persName type="author" ref="psn:person_xym_h31_sp"/>
+                <settlement type="written" ref="plc:place_zdf_tvj_lp"/>
+            </creation>
+            <textClass>
+                <catRef/>
+            </textClass>
+            <handNotes>
+                <handNote xml:id="student" scope="sole" scribeRef="psn:person_xym_h31_sp">Straight and uncial /d/ for 'ð', in addition to /ð/. Only clear /ð/ transcribed as 'ð', rest as 'd'.</handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <facsimile xml:base="../../../XML%20skólastílar/transcriptions/1847-1848/">
+        <graphic mimeType="image/jpeg" url="IMAG0572.jpg" xml:id="image_018"/>
+        <graphic mimeType="image/jpeg" url="IMAG0573.jpg" xml:id="image_019"/>
+        <graphic mimeType="image/jpeg" url="IMAG0574.jpg" xml:id="image_020"/>
+        <graphic mimeType="image/jpeg" url="IMAG0575.jpg" xml:id="image_021"/>
+        <graphic mimeType="image/jpeg" url="IMAG0576.jpg" xml:id="image_022"/>
+        <graphic mimeType="image/jpeg" url="IMAG0577.jpg" xml:id="image_023"/>
+        <graphic mimeType="image/jpeg" url="IMAG0578.jpg" xml:id="image_024"/>
+        <graphic mimeType="image/jpeg" url="IMAG0579.jpg" xml:id="image_025"/>
+        <graphic mimeType="image/jpeg" url="IMAG0580.jpg" xml:id="image_026"/>
+        <graphic mimeType="image/jpeg" url="IMAG0581.jpg" xml:id="image_027"/>
+        <graphic mimeType="image/jpeg" url="IMAG0582.jpg" xml:id="image_028"/>
+        <graphic mimeType="image/jpeg" url="IMAG0583.jpg" xml:id="image_029"/>
+        <graphic mimeType="image/jpeg" url="IMAG0584.jpg" xml:id="image_030"/>
+        <graphic mimeType="image/jpeg" url="IMAG0585.jpg" xml:id="image_031"/>
+        <graphic mimeType="image/jpeg" url="IMAG0586.jpg" xml:id="image_032"/>
+        <graphic mimeType="image/jpeg" url="IMAG0587.jpg" xml:id="image_033"/>
+        <graphic mimeType="image/jpeg" url="IMAG0588.jpg" xml:id="image_034"/>
+        <graphic mimeType="image/jpeg" url="IMAG0589.jpg" xml:id="image_035"/>
+        <graphic mimeType="image/jpeg" url="IMAG0590.jpg" xml:id="image_036"/>
+        <graphic mimeType="image/jpeg" url="IMAG0591.jpg" xml:id="image_037"/>
+        <graphic mimeType="image/jpeg" url="IMAG0592.jpg" xml:id="image_038"/>
+        <graphic mimeType="image/jpeg" url="IMAG0593.jpg" xml:id="image_039"/>
+        <graphic mimeType="image/jpeg" url="IMAG0594.jpg" xml:id="image_040"/>
+        <graphic mimeType="image/jpeg" url="IMAG0595.jpg" xml:id="image_041"/>
+        <graphic mimeType="image/jpeg" url="IMAG0596.jpg" xml:id="image_042"/>
+        <graphic mimeType="image/jpeg" url="IMAG0597.jpg" xml:id="image_043"/>
+        <graphic mimeType="image/jpeg" url="IMAG0598.jpg" xml:id="image_044"/>
+        <graphic mimeType="image/jpeg" url="IMAG0599.jpg" xml:id="image_045"/>
+        <graphic mimeType="image/jpeg" url="IMAG0600.jpg" xml:id="image_046"/>
+        <graphic mimeType="image/jpeg" url="IMAG0601.jpg" xml:id="image_047"/>
+        <graphic mimeType="image/jpeg" url="IMAG0602.jpg" xml:id="image_048"/>
+        <graphic mimeType="image/jpeg" url="IMAG0603.jpg" xml:id="image_049"/>
+        <graphic mimeType="image/jpeg" url="IMAG0604.jpg" xml:id="image_050"/>
+        <graphic mimeType="image/jpeg" url="IMAG0605.jpg" xml:id="image_051"/>
+        <graphic mimeType="image/jpeg" url="IMAG0606.jpg" xml:id="image_052"/>
+        <graphic mimeType="image/jpeg" url="IMAG0607.jpg" xml:id="image_053"/>
+        <graphic mimeType="image/jpeg" url="IMAG0608.jpg" xml:id="image_054"/>
+        <graphic mimeType="image/jpeg" url="IMAG0609.jpg" xml:id="image_055"/>
+        <graphic mimeType="image/jpeg" url="IMAG0610.jpg" xml:id="image_056"/>
+        <graphic mimeType="image/jpeg" url="IMAG0611.jpg" xml:id="image_057"/>
+        <graphic mimeType="image/jpeg" url="IMAG0612.jpg" xml:id="image_058"/>
+        <graphic mimeType="image/jpeg" url="IMAG0613.jpg" xml:id="image_059"/>
+        <graphic mimeType="image/jpeg" url="IMAG0614.jpg" xml:id="image_060"/>
+        <graphic mimeType="image/jpeg" url="IMAG0615.jpg" xml:id="image_061"/>
+        <graphic mimeType="image/jpeg" url="IMAG0616.jpg" xml:id="image_062"/>
+        <graphic mimeType="image/jpeg" url="IMAG0617.jpg" xml:id="image_063"/>
+        <graphic mimeType="image/jpeg" url="IMAG0618.jpg" xml:id="image_064"/>
+        <graphic mimeType="image/jpeg" url="IMAG0619.jpg" xml:id="image_065"/>
+        <graphic mimeType="image/jpeg" url="IMAG0620.jpg" xml:id="image_066"/>
+        <graphic mimeType="image/jpeg" url="IMAG0621.jpg" xml:id="image_067"/>
+        <graphic mimeType="image/jpeg" url="IMAG0622.jpg" xml:id="image_068"/>
+        <graphic mimeType="image/jpeg" url="IMAG0623.jpg" xml:id="image_069"/>
+        <graphic mimeType="image/jpeg" url="IMAG0624.jpg" xml:id="image_070"/>
+        <graphic mimeType="image/jpeg" url="IMAG0625.jpg" xml:id="image_071"/>
+        <graphic mimeType="image/jpeg" url="IMAG0626.jpg" xml:id="image_072"/>
+        <graphic mimeType="image/jpeg" url="IMAG0627.jpg" xml:id="image_073"/>
+        <graphic mimeType="image/jpeg" url="IMAG0628.jpg" xml:id="image_074"/>
+        <graphic mimeType="image/jpeg" url="IMAG0629.jpg" xml:id="image_075"/>
+        <graphic mimeType="image/jpeg" url="IMAG0630.jpg" xml:id="image_076"/>
+        <graphic mimeType="image/jpeg" url="IMAG0631.jpg" xml:id="image_077"/>
+        <graphic mimeType="image/jpeg" url="IMAG0632.jpg" xml:id="image_078"/>
+        <graphic mimeType="image/jpeg" url="IMAG0633.jpg" xml:id="image_079"/>
+        <graphic mimeType="image/jpeg" url="IMAG0634.jpg" xml:id="image_080"/>
+        <graphic mimeType="image/jpeg" url="IMAG0635.jpg" xml:id="image_081"/>
+        <graphic mimeType="image/jpeg" url="IMAG0636.jpg" xml:id="image_082"/>
+        <graphic mimeType="image/jpeg" url="IMAG0637.jpg" xml:id="image_083"/>
+        <graphic mimeType="image/jpeg" url="IMAG0638.jpg" xml:id="image_084"/>
+        <graphic mimeType="image/jpeg" url="IMAG0639.jpg" xml:id="image_085"/>
+        <graphic mimeType="image/jpeg" url="IMAG0640.jpg" xml:id="image_086"/>
+        <graphic mimeType="image/jpeg" url="IMAG0641.jpg" xml:id="image_087"/>
+        <graphic mimeType="image/jpeg" url="IMAG0642.jpg" xml:id="image_088"/>
+        <graphic mimeType="image/jpeg" url="IMAG0643.jpg" xml:id="image_089"/>
+        <graphic mimeType="image/jpeg" url="IMAG0644.jpg" xml:id="image_090"/>
+        <graphic mimeType="image/jpeg" url="IMAG0645.jpg" xml:id="image_091"/>
+        <graphic mimeType="image/jpeg" url="IMAG0646.jpg" xml:id="image_092"/>
+        <graphic mimeType="image/jpeg" url="IMAG0647.jpg" xml:id="image_093"/>
+    </facsimile>
+    <text xml:lang="is">
+        <body>
+            <div type="assignment" facs="#image_050">
+                <p>Þegar kristur taladi þessi ord vid lærisveina sína, <lb break="yes"/>þótti þeim
+                    það undarlegt, og sögðu að þá mundi <lb break="yes"/>enginn komast i guds ríki;
+                    ad sönnu liggur það <lb break="yes"/>næst að taka það svo, ad <del
+                        hand="#student">er</del> ríkum manni sé ei <lb break="yes"/>unt ad komast i
+                    guds ríki, eins og það er ad sínu <lb break="yes"/>leyti ei unt úlfalda ad
+                    komast gegnum nálar <lb break="yes"/>auga; en lærisveinarnir hafa ekki skilid
+                    hvad lá <lb break="yes"/>i orðum lausnarans, og imyndað sér ad þau ættu <lb break="yes"/>skiljast eins og þau voru töluð. En þar sem hann <lb break="yes"
+                    />nefnir hinn ríka mann, þá hefur hann vafalaust <lb break="yes"/>meint þann, sem
+                    ofurselur sig auðnum, og álítur <lb break="yes"/>hann þau ædstu gædi, sem
+                    manninum geti <pb n="2" facs="#image_051" break="yes"/>hlotnast, og leggur þvi
+                    allt sitt fram til að afla sér <lb break="yes"/>þessara gæða; en sá sem þannig
+                    er skapi farinn hann <lb break="yes"/>sækist eptir auðnum einmidt vegna sjálfs
+                        audsins, <lb break="yes"/>og hugsar ei um annad, en að fá safnað sem <lb break="yes"/>mestu, honum kemur <add place="above" hand="#student">ei</add>
+                    til hugar að þetta er sá <lb break="yes"/>auður sem mölur og rið fær grandað;
+                    hann minnist <lb break="yes"/>ekki þeirra orða, sem Kristur sagði: safnið yður
+                        fjársjóð <lb break="yes"/>á himnum sem hvorki mölur né rið fær grandað <lb break="yes"/>né þjófar geta komist að; hann gleymir þvi ad <lb break="yes"
+                    />audurinn á að vera meðal til annars ædra, <lb break="yes"/>sem er andlegt og
+                    eílíft. Sá einn hefur rétta skoðun <lb break="yes"/>á audnum, sem ver honum
+                    samkvæmt tilætlun <lb break="yes"/>gjafarans; en þar gjafarinn er algódur og
+                        alvís, <lb break="yes"/>þá er tilgangur hans með audinn eins og hvad <lb break="yes"/>annað sem kemur frá honum <add place="above" hand="#student"
+                        >sá</add> að honum sé varid <lb break="yes"/>til eflingar bædi þvi almenna
+                    og einstaka; það <pb facs="#image_052" n="3" break="yes"/>er þvi tilgangur
+                    giafarans, ad audnum se ekki <lb break="yes"/>einungis varið til adstodar hinu
+                    almenna, eda <lb break="yes"/>mannlegu félagi yfir höfuð að tala, heldur að <lb break="yes"/>honum sé líka varið til hjálpar og adstodar þeim <lb break="yes"/>sem þurfandi eru, þvi segir heilög Ritning: "gleymið <lb break="yes"/>ekki að gera gott og útbýta, því þær fórnir þóknast <lb break="yes"/>gudi vel"; en þessi hjálp og adstoð er einkis metandi <lb break="yes"/>ef hun er ei beinlinis sprottin af bróðurlegum kærleika <lb break="yes"/>og laus við alla egingirni, þvi segir og gudsord á <lb break="yes"/>ödrum stad,: þó eg brytjadi allar mínar eigur nidur <lb break="yes"/>fyrir fátæka, en vantadi kærleikann, þá væri eg <lb break="yes"
+                    />einkis virði. -- Sá sem med audnum bædi stydur <lb break="yes"/>almennings
+                    heill og hvers einstaks að þvi leyti, <lb break="yes"/>sem hann á kost á, hann
+                    ver audnum samkvæmt <lb break="yes"/>tilætlun gjafarans,<supplied><pc
+                            force="weak">.</pc></supplied>  hann safnar sér jafnframt <lb break="yes"/>fjarsjóði á himnum sem er eilifur, þvi hann <lb break="yes"
+                    />hefur andlegan fögnud sem enginn getur tekid <pb facs="#image_053" n="4"
+                        break="yes"/>frá honum, þvi hann ávinnur ser hilli guds og gódra <lb break="yes"/>manna; mundi sá sem þannig ver auðnum ekki koma <lb break="yes"
+                    />i guds ríki? jú það er óhætt að fullyrða, og það hefur <lb break="yes"/>kristur
+                    sjálfsagt haft i huga er hann átti tal vid <lb break="yes"/>lærisveina sína um
+                    hinn ríka mann. En af því <lb break="yes"/>það er eðli audsins ad draga mannínn
+                    frá gudi <lb break="yes"/>og hinu himneska, en binda hann ofmjög vid <lb break="yes"/>hið jardneska, þá er það skjáldgæft, að honum sé <lb break="yes"/>varið samkvæmt tilgangi sínum, því mennirnir <lb break="yes"
+                    />eru breiskir og ófullkomnir, og láta leidast af því <lb break="yes"/>þvi
+                    synilega og stundlega, og gera sig þannig óhæfa <lb break="yes"/>inngaungu í guds
+                    ríki. ---</p>
+                <p>B: Jónsson</p>
+            </div>
+        </body>
+    </text>
+</TEI>

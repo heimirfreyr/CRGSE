@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="TEI_s52_4bg_rp" xml:lang="is" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Að útlista þessi orð lausnarans: auðveldara er úlfaldanum að gánga í gegnum
+                    nálaraugað, en ríkum manni inn í guðs ríki.</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>LCLV19</authority>
+                <idno/>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository ref="org:Þjskjs"/>
+                        <collection>Hinn lærði skóli í Reykjavík (1846-1904)</collection>
+                        <idno/>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <profileDesc>
+            <creation>
+                <date type="written" when="1848" cert="high"/>
+                <persName type="author" ref="psn:person_fpb_41g_rp"/>
+                <settlement type="written" ref="plc:place_zdf_tvj_lp"/>
+            </creation>
+            <textClass>
+                <catRef/>
+            </textClass>
+            <handNotes>
+                <handNote xml:id="teacher" scope="minor" scribeRef="psn:person_m3f_42w_lp">Pencil.</handNote>
+                <handNote xml:id="student" scope="major" scribeRef="psn:person_fpb_41g_rp"/>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <facsimile xml:base="../../../XML%20skólastílar/transcriptions/1847-1848/">
+        <graphic mimeType="image/jpeg" url="IMAG0572.jpg" xml:id="image_015"/>
+        <graphic mimeType="image/jpeg" url="IMAG0573.jpg" xml:id="image_016"/>
+        <graphic mimeType="image/jpeg" url="IMAG0574.jpg" xml:id="image_017"/>
+        <graphic mimeType="image/jpeg" url="IMAG0575.jpg" xml:id="image_018"/>
+        <graphic mimeType="image/jpeg" url="IMAG0576.jpg" xml:id="image_019"/>
+        <graphic mimeType="image/jpeg" url="IMAG0577.jpg" xml:id="image_020"/>
+        <graphic mimeType="image/jpeg" url="IMAG0578.jpg" xml:id="image_021"/>
+        <graphic mimeType="image/jpeg" url="IMAG0579.jpg" xml:id="image_022"/>
+        <graphic mimeType="image/jpeg" url="IMAG0580.jpg" xml:id="image_023"/>
+        <graphic mimeType="image/jpeg" url="IMAG0581.jpg" xml:id="image_024"/>
+        <graphic mimeType="image/jpeg" url="IMAG0582.jpg" xml:id="image_025"/>
+        <graphic mimeType="image/jpeg" url="IMAG0583.jpg" xml:id="image_026"/>
+        <graphic mimeType="image/jpeg" url="IMAG0584.jpg" xml:id="image_027"/>
+        <graphic mimeType="image/jpeg" url="IMAG0585.jpg" xml:id="image_028"/>
+        <graphic mimeType="image/jpeg" url="IMAG0586.jpg" xml:id="image_029"/>
+        <graphic mimeType="image/jpeg" url="IMAG0587.jpg" xml:id="image_030"/>
+        <graphic mimeType="image/jpeg" url="IMAG0588.jpg" xml:id="image_031"/>
+        <graphic mimeType="image/jpeg" url="IMAG0589.jpg" xml:id="image_032"/>
+        <graphic mimeType="image/jpeg" url="IMAG0590.jpg" xml:id="image_033"/>
+        <graphic mimeType="image/jpeg" url="IMAG0591.jpg" xml:id="image_034"/>
+        <graphic mimeType="image/jpeg" url="IMAG0592.jpg" xml:id="image_035"/>
+        <graphic mimeType="image/jpeg" url="IMAG0593.jpg" xml:id="image_036"/>
+        <graphic mimeType="image/jpeg" url="IMAG0594.jpg" xml:id="image_037"/>
+        <graphic mimeType="image/jpeg" url="IMAG0595.jpg" xml:id="image_038"/>
+        <graphic mimeType="image/jpeg" url="IMAG0596.jpg" xml:id="image_039"/>
+        <graphic mimeType="image/jpeg" url="IMAG0597.jpg" xml:id="image_040"/>
+        <graphic mimeType="image/jpeg" url="IMAG0598.jpg" xml:id="image_041"/>
+        <graphic mimeType="image/jpeg" url="IMAG0599.jpg" xml:id="image_042"/>
+        <graphic mimeType="image/jpeg" url="IMAG0600.jpg" xml:id="image_043"/>
+        <graphic mimeType="image/jpeg" url="IMAG0601.jpg" xml:id="image_044"/>
+        <graphic mimeType="image/jpeg" url="IMAG0602.jpg" xml:id="image_045"/>
+        <graphic mimeType="image/jpeg" url="IMAG0603.jpg" xml:id="image_046"/>
+        <graphic mimeType="image/jpeg" url="IMAG0604.jpg" xml:id="image_047"/>
+        <graphic mimeType="image/jpeg" url="IMAG0605.jpg" xml:id="image_048"/>
+        <graphic mimeType="image/jpeg" url="IMAG0606.jpg" xml:id="image_049"/>
+        <graphic mimeType="image/jpeg" url="IMAG0607.jpg" xml:id="image_050"/>
+        <graphic mimeType="image/jpeg" url="IMAG0608.jpg" xml:id="image_051"/>
+        <graphic mimeType="image/jpeg" url="IMAG0609.jpg" xml:id="image_052"/>
+        <graphic mimeType="image/jpeg" url="IMAG0610.jpg" xml:id="image_053"/>
+        <graphic mimeType="image/jpeg" url="IMAG0611.jpg" xml:id="image_054"/>
+        <graphic mimeType="image/jpeg" url="IMAG0612.jpg" xml:id="image_055"/>
+        <graphic mimeType="image/jpeg" url="IMAG0613.jpg" xml:id="image_056"/>
+        <graphic mimeType="image/jpeg" url="IMAG0614.jpg" xml:id="image_057"/>
+        <graphic mimeType="image/jpeg" url="IMAG0615.jpg" xml:id="image_058"/>
+        <graphic mimeType="image/jpeg" url="IMAG0616.jpg" xml:id="image_059"/>
+        <graphic mimeType="image/jpeg" url="IMAG0617.jpg" xml:id="image_060"/>
+        <graphic mimeType="image/jpeg" url="IMAG0618.jpg" xml:id="image_061"/>
+        <graphic mimeType="image/jpeg" url="IMAG0619.jpg" xml:id="image_062"/>
+        <graphic mimeType="image/jpeg" url="IMAG0620.jpg" xml:id="image_063"/>
+        <graphic mimeType="image/jpeg" url="IMAG0621.jpg" xml:id="image_064"/>
+        <graphic mimeType="image/jpeg" url="IMAG0622.jpg" xml:id="image_065"/>
+        <graphic mimeType="image/jpeg" url="IMAG0623.jpg" xml:id="image_066"/>
+        <graphic mimeType="image/jpeg" url="IMAG0624.jpg" xml:id="image_067"/>
+        <graphic mimeType="image/jpeg" url="IMAG0625.jpg" xml:id="image_068"/>
+        <graphic mimeType="image/jpeg" url="IMAG0626.jpg" xml:id="image_069"/>
+        <graphic mimeType="image/jpeg" url="IMAG0627.jpg" xml:id="image_070"/>
+        <graphic mimeType="image/jpeg" url="IMAG0628.jpg" xml:id="image_071"/>
+        <graphic mimeType="image/jpeg" url="IMAG0629.jpg" xml:id="image_072"/>
+        <graphic mimeType="image/jpeg" url="IMAG0630.jpg" xml:id="image_073"/>
+        <graphic mimeType="image/jpeg" url="IMAG0631.jpg" xml:id="image_074"/>
+        <graphic mimeType="image/jpeg" url="IMAG0632.jpg" xml:id="image_075"/>
+        <graphic mimeType="image/jpeg" url="IMAG0633.jpg" xml:id="image_076"/>
+        <graphic mimeType="image/jpeg" url="IMAG0634.jpg" xml:id="image_077"/>
+        <graphic mimeType="image/jpeg" url="IMAG0635.jpg" xml:id="image_078"/>
+        <graphic mimeType="image/jpeg" url="IMAG0636.jpg" xml:id="image_079"/>
+        <graphic mimeType="image/jpeg" url="IMAG0637.jpg" xml:id="image_080"/>
+        <graphic mimeType="image/jpeg" url="IMAG0638.jpg" xml:id="image_081"/>
+        <graphic mimeType="image/jpeg" url="IMAG0639.jpg" xml:id="image_082"/>
+        <graphic mimeType="image/jpeg" url="IMAG0640.jpg" xml:id="image_083"/>
+        <graphic mimeType="image/jpeg" url="IMAG0641.jpg" xml:id="image_084"/>
+        <graphic mimeType="image/jpeg" url="IMAG0642.jpg" xml:id="image_085"/>
+        <graphic mimeType="image/jpeg" url="IMAG0643.jpg" xml:id="image_086"/>
+        <graphic mimeType="image/jpeg" url="IMAG0644.jpg" xml:id="image_087"/>
+        <graphic mimeType="image/jpeg" url="IMAG0645.jpg" xml:id="image_088"/>
+        <graphic mimeType="image/jpeg" url="IMAG0646.jpg" xml:id="image_089"/>
+        <graphic mimeType="image/jpeg" url="IMAG0647.jpg" xml:id="image_090"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="assignment" facs="#image_032">
+                <p> Þegar sannleikans höfundur talar, <lb break="yes"/>hann, sem einginn gat sannað á
+                        nokkra <lb break="yes"/>synd, og í hvers munni eigi voru <lb break="yes"/>svik
+                        fundin<del hand="#student">n</del>, þegar hann talar <lb break="yes"/>þá má
+                    einginn og getur einginn <lb break="yes"/>vænt annars, en það sé sannleik<lb
+                        break="no"/>ur, sem hann talar; orðum hans <lb break="yes"/>verður eigi
+                    hrundið; dómar hans <lb break="yes"/>standa óraskanlegir. -- Þegar vér <lb break="yes"/>tökum nú orð lausnarans til yfir<lb break="no"/>vegunar með
+                    þessari sannfæríngu, <lb break="yes"/>og þessari trú<supplied><pc force="weak"
+                            >.</pc></supplied> -- og þess trú og <pb n="2" break="yes"
+                        facs="#image_033"/>þessa sannfæríngu hlýtur hver <lb break="yes"/>kristinn
+                    maður að ala í brjósti <lb break="yes"/>sínu<supplied><pc force="strong"
+                        >.</pc></supplied> -- þá trúum vér því, að þau <lb break="yes"/>séu heilagur
+                    sannleiki; um það <lb break="yes"/>efumst vér ekki, og ef oss finst <lb break="yes"/>eitthvað það vera í orðum hans, <lb break="yes"/>sem eigi sé
+                    hægt að rýma saman <lb break="yes"/>við skynsemina, <del hand="#student"
+                        >eink</del> þá getum vér þó eigi annað, en trúað því, því <lb break="yes"
+                    />vér trúum til þess vér skiljum. -- <lb break="yes"/>Vér tökum þá þau orðin,
+                    er oss <lb break="yes"/>finnast <del hand="#teacher" rend="underlining"
+                        cause="fix" confidence="1" status="correction" type="spelling">óþíð</del>,
+                    og berum þau saman <lb break="yes"/>við önnur orð lausnarans, <supplied><pc
+                            force="strong">.</pc></supplied> vér <lb break="yes"/>rannsökum eðli
+                    þeirra, og hvað <lb break="yes"/>í þeim býr, <supplied><pc force="strong"
+                        >.</pc></supplied> vér berum anda <lb break="yes"/>þeirra saman við anda
+                        allrar <lb break="yes"/>kenníngarinnar<supplied><pc force="strong"
+                        >.</pc></supplied> -- vér gætum <lb break="yes"/>að eðli <del
+                        hand="#student">þess máls</del> þeirrar túngu, <lb break="yes"/>sem
+                    lausnarans orð eru töluð á <lb break="yes"/>eða rituð, og gætum vandlega að <pb
+                        n="3" break="yes" facs="#image_038"/>öllum smá-atvikum og kríngum<lb
+                        break="no"/>stæðum er orðin voru töluð í -- <lb break="yes"/>og þá, þegar
+                    vér höfum athugað <lb break="yes"/>alt þetta, og borið allt þetta saman - <lb break="yes"/>-- þá munum vér finna, að það, <lb break="yes"/>er oss þótti
+                    hart eða óþítt í <lb break="yes"/>orðum lausnarans á meðan vér <lb break="yes"
+                    />skoðuðum <unclear reason="hand" hand="#student">sran</unclear> hans við allt
+                        sam<lb break="no"/>band við önnur orð hans, -- þá <lb break="yes"/>munum vér
+                    finna að það er <lb break="yes"/>horfið, og að skilníngsleysi <lb break="yes"
+                    />vort og vanþekkíng komu <lb break="yes"/>af stað hjá oss þessum hinum <lb break="yes"/>óþíðu tilfinníngum. --</p>
+                <p>Eitt af þeim orðum lausnarans, <lb break="yes"/>sem, út af fyrir sig, kunna að <lb break="yes"/>þykja hörð, jafnvel órýmandi sam<lb break="no"/>an við
+                    heilbrigða skynsemi og <lb break="yes"/>ástand manna á þessari jörðu, <lb break="yes"/>eru þessi orð hans, sem hér á <pb n="4" break="yes"
+                        facs="#image_039"/>að taka til yfirvegunar, og útskýr<lb break="no"/>íngar:
+                    "hægra er úlfaldanum að gánga <lb break="yes"/>"í gegnum nálaraugað en ríkum <lb break="yes"/>"manni inn í <del hand="#student">him</del> guðs ríki." ---</p>
+                <p>Ef vér tökum nú orðin eins og þau <lb break="yes"/>eru, og gætum að því hversu
+                        lángt <lb break="yes"/>úlfaldinn er frá því, að geta gengið <lb break="yes"/>í
+                    gegnum nálaraugað, þá getum vér <lb break="yes"/>eigi annað, en skilið þau svo,
+                        sem <lb break="yes"/>lausnarinn segi það eigi auðið <lb break="yes"/>að ríkur
+                    maður komist inn í <lb break="yes"/>guðs ríki. -- Svona hafa líka læri<lb
+                        break="no"/>sveinar Krists skilið þessi orð, því <lb break="yes"/>þeir <del
+                        hand="#student">segja</del> skelfdust mjög, er þeir <lb break="yes"/>heyrðu
+                        <del hand="#student">þessi orð</del>
+                    <add place="above" hand="#student">þau</add> og spurðu: hver <lb break="yes"/>þá
+                    mundi verða hólpinn, <del hand="#student">og</del> <lb break="yes"/>þá svarar
+                    Kristur einúngis þessum <lb break="yes"/>orðum: Það sem er ómögulegt fyrir <lb break="yes"/>mönnum, er fyrir guði mögulegt; <lb break="yes"/>því guði er
+                        <del hand="#student">einginn</del> allt mögulegt. <pb n="5" break="yes"
+                        facs="#image_034"/>Hvervetna er það tekið fram í kenníngu <lb break="yes"
+                    />lausnarans, og allri þeirri kenníngu, <lb break="yes"/>sem á henni byggist og
+                    henni líkist, <lb break="yes"/>að þessa heims guð, auðurinn, og <lb break="yes"
+                    />þrælar hans, séu guði, þeim sem í <lb break="yes"/>ljósinu býr, eigi þekkir, og
+                        fjarlægir <lb break="yes"/>honum; auðurinn er jafnan skoðaður <lb break="yes"
+                    />sem andstæði guðs, eða gagnstæður <lb break="yes"/>honum, og <add place="above"
+                        hand="#student">það tekið fram<del hand="#student">m</del>!</add> að einginn
+                    geti tveimur <lb break="yes"/>herrum í senn þjónað; því annað- <lb break="yes"
+                    />hvort afræki hann <del hand="#student">annan</del><add place="above"
+                        hand="#student">þenna</add> og að<lb break="no"/>hyllist hinn, eða hann
+                        aðhyllist <lb break="yes"/>þenna, og afræki hinn. Vér sjáum <lb break="yes"
+                    />því að í þeim orðum, sem vér <lb break="yes"/>hér höfum tekið oss til
+                        yfirveg<lb break="no"/>unar, liggur hin sama kenníng, <lb break="yes"/>en það
+                    er sú, að þrælar auðsins, <lb break="yes"/>séu ekki guðs börn. Þrælar auðs<lb
+                        break="no"/>ins, segi eg, því það er andi <pb n="6" break="yes"
+                        facs="#image_035"/>kenníngarinnar, og eptir anda <lb break="yes"/>hennar
+                    verður öruggast að <lb break="yes"/>skoða hvert einstakt atriði í <lb break="yes"
+                    />henni. Eða hvernig hefði guð, <lb break="yes"/>sem auðinn gefur, gefið hann <lb break="yes"/>til þess, að allir, sem hann fá, <lb break="yes"/>skyldu verða
+                    útilokaðir frá ríki <lb break="yes"/>hans? -- Einginn getur hugsað <lb break="yes"
+                    />að auðurinn sé sá þröskuldur <lb break="yes"/>fyrir guðs ríki, sem eingum <lb break="yes"/>sé unnt að komast yfir, heldur <lb break="yes"/><del
+                        hand="#student">`</del>er það notkun hans og með<lb break="no"/>ferð.
+                    Maðurinn á að brúka <lb break="yes"/>heiminn svo að hann mis<lb break="no"/>brúki
+                    hann eigi, svo allur <lb break="yes"/>vandinn liggur enn í þessu, <lb break="yes"
+                    />sem öðru, því er gefið er undir <lb break="yes"/>frjálsræði mannsins, á mann<lb
+                        break="no"/>inum sjálfum. -- Maðurinn á <lb break="yes"/>að gjöra sér vini
+                    af hinum <pb n="7" break="yes" facs="#image_036"/>rángfengna mammóni, svo þeir <lb break="yes"/>taki hann í sínar tjaldbúðir. <lb break="yes"/>Þetta er regla
+                    sú, er guðs orð <lb break="yes"/>gefur fyrir brúkun auðsins.</p>
+                <p>Þegar vér nú athugum hin <lb break="yes"/>ofanrituðu orð lausnarans, <lb break="yes"/>í sambandi við alla kenníngu <lb break="yes"/>hans, og rannsökum
+                    þau, og <lb break="yes"/>þann anda sem í þeim býr, <lb break="yes"/>og í allri
+                    kenníngunni býr, <lb break="yes"/>þá verður ályktunin þessi: <lb break="yes"
+                    />þrælar auðsins fá ekki inn<lb break="no"/>gaungu í guðs ríki; það er: <lb break="yes"/>sá maður, sem á auðinn trúir, <lb break="yes"/>sem gefur sig
+                    allan á vald <lb break="yes"/>auðnum, hann er eki guðs<lb break="no"/>barn, né
+                    erfíngi hans ríkis. <lb break="yes"/>Og þegar vér tökum orðin <lb break="yes"
+                    />svona, og skiljum þau svona, <pb n="8" break="yes" facs="#image_037"/>þá þykir
+                    oss eigi undarlegt, að <lb break="yes"/>lausnarinn skyldi komast svona <lb break="yes"/>að orði við það tækifæri, sem <lb break="yes"/>þau voru töluð,
+                    því það sýndi <lb break="yes"/>hvað þrælar auðsins eiga bágt <lb break="yes"/>með,
+                    að slíta sig undan oki <lb break="yes"/>hans, og gánga í þjónustu guðs. <lb break="yes"/>Svar lausnarans lýtur og að því, <lb break="yes"/>að eigi allir
+                    ríki menn, heldur <lb break="yes"/>þrælar auðsins séu útilokaðir frá <lb break="yes"/>guðs ríki, eða gjöri sér það eigi <lb break="yes"/>unnt, þar
+                    inn að gánga, með <lb break="yes"/>því að þeir hafa gefið sig undir <lb break="yes"/>þrældóms ok auðæfanna.</p>
+                <p>MGrímsson.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

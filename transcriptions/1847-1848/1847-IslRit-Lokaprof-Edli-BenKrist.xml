@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="TEI_ngb_rld_4p" xml:lang="is" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <authority>LCLV19</authority>
+                <idno/>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository ref="org:Þjskjs"/>
+                        <collection>Hinn lærði skóli í Reykjavík (1846-1904)</collection>
+                        <idno/>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <profileDesc>
+            <creation>
+                <date type="written" when="1847" cert="high"/>
+                <persName type="author" ref="psn:person_hbt_dmd_4p"/>
+                <settlement type="written" ref="plc:place_zdf_tvj_lp"/>
+            </creation>
+            <textClass>
+                <catRef/>
+            </textClass>
+            <handNotes>
+                <handNote xml:id="student" scope="major" scribeRef="psn:person_hbt_dmd_4p"/>
+                <handNote xml:id="teacher" scope="minor" scribeRef="psn:person_m3f_42w_lp">Pencil</handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <facsimile xml:base="../../../XML%20skólastílar/transcriptions/1847-1848/">
+        <graphic mimeType="image/jpeg" url="IMAG0613.jpg" xml:id="image_007"/>
+        <graphic mimeType="image/jpeg" url="IMAG0614.jpg" xml:id="image_008"/>
+        <graphic mimeType="image/jpeg" url="IMAG0615.jpg" xml:id="image_009"/>
+        <graphic mimeType="image/jpeg" url="IMAG0616.jpg" xml:id="image_010"/>
+        <graphic mimeType="image/jpeg" url="IMAG0617.jpg" xml:id="image_011"/>
+        <graphic mimeType="image/jpeg" url="IMAG0618.jpg" xml:id="image_012"/>
+        <graphic mimeType="image/jpeg" url="IMAG0619.jpg" xml:id="image_013"/>
+        <graphic mimeType="image/jpeg" url="IMAG0620.jpg" xml:id="image_014"/>
+        <graphic mimeType="image/jpeg" url="IMAG0621.jpg" xml:id="image_015"/>
+        <graphic mimeType="image/jpeg" url="IMAG0622.jpg" xml:id="image_016"/>
+        <graphic mimeType="image/jpeg" url="IMAG0623.jpg" xml:id="image_017"/>
+        <graphic mimeType="image/jpeg" url="IMAG0624.jpg" xml:id="image_018"/>
+        <graphic mimeType="image/jpeg" url="IMAG0625.jpg" xml:id="image_019"/>
+        <graphic mimeType="image/jpeg" url="IMAG0626.jpg" xml:id="image_020"/>
+        <graphic mimeType="image/jpeg" url="IMAG0627.jpg" xml:id="image_021"/>
+        <graphic mimeType="image/jpeg" url="IMAG0628.jpg" xml:id="image_022"/>
+        <graphic mimeType="image/jpeg" url="IMAG0629.jpg" xml:id="image_023"/>
+        <graphic mimeType="image/jpeg" url="IMAG0630.jpg" xml:id="image_024"/>
+        <graphic mimeType="image/jpeg" url="IMAG0631.jpg" xml:id="image_025"/>
+        <graphic mimeType="image/jpeg" url="IMAG0632.jpg" xml:id="image_026"/>
+        <graphic mimeType="image/jpeg" url="IMAG0633.jpg" xml:id="image_027"/>
+        <graphic mimeType="image/jpeg" url="IMAG0634.jpg" xml:id="image_028"/>
+        <graphic mimeType="image/jpeg" url="IMAG0635.jpg" xml:id="image_029"/>
+        <graphic mimeType="image/jpeg" url="IMAG0636.jpg" xml:id="image_030"/>
+        <graphic mimeType="image/jpeg" url="IMAG0637.jpg" xml:id="image_031"/>
+        <graphic mimeType="image/jpeg" url="IMAG0638.jpg" xml:id="image_032"/>
+        <graphic mimeType="image/jpeg" url="IMAG0639.jpg" xml:id="image_033"/>
+        <graphic mimeType="image/jpeg" url="IMAG0640.jpg" xml:id="image_034"/>
+        <graphic mimeType="image/jpeg" url="IMAG0641.jpg" xml:id="image_035"/>
+        <graphic mimeType="image/jpeg" url="IMAG0642.jpg" xml:id="image_036"/>
+        <graphic mimeType="image/jpeg" url="IMAG0643.jpg" xml:id="image_037"/>
+        <graphic mimeType="image/jpeg" url="IMAG0644.jpg" xml:id="image_038"/>
+        <graphic mimeType="image/jpeg" url="IMAG0645.jpg" xml:id="image_039"/>
+        <graphic mimeType="image/jpeg" url="IMAG0646.jpg" xml:id="image_040"/>
+        <graphic mimeType="image/jpeg" url="IMAG0647.jpg" xml:id="image_041"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="assignment" facs="#image_031">
+                <p> Þegar talað er um lögmál í samanburði við náð<lb break="no"/>arboðskapinn, þá er
+                    einkanlega talað um <lb break="yes"/>lögmál það, sem guð opinberaði Gyðíngum
+                        fyrir <lb break="yes"/>Móses, bóðorð það, sem guð, hinn réttláti konúngur <lb break="yes"/>veitti þjóð sinni, er hann hafði útvalið, er hún átti <lb break="yes"/>að breyta eptir, svo hún yrði guði, hinum réttláta dóm<lb
+                        break="no"/>ara þóknanleg, og mætti lifa leingi í landinu.</p>
+                <p>En náðarboðskapurinn er á hinn bóginn opinberun <lb break="yes"/>sú, er guð veitti
+                    öllu mannkyni fyri soninn, fyrir sinn <lb break="yes"/>eingetinn son,
+                    endurlausnara syndugra manna, sem <lb break="yes"/>guð sendi, til að fræða
+                    mannkynið um veru<del hand="#student">h</del> sína og <lb break="yes"/>samband
+                    við það, til að fræða það um skyldur frelsi og <lb break="yes"/>ákvörðun, til að
+                    styrkja vanmátt þess og helga viljann, <lb break="yes"/>sem guð sendi, til að
+                    endurleysa mennina og frelsa þá <lb break="yes"/>með dauða sínum undan valdi
+                    syndarinnar, svo þeir <lb break="yes"/>gætu í trúnni og kærleikanum <del
+                        hand="#student">þokast</del> náð framför<lb break="no"/>um til fullkomnunar
+                    og helgunar. Nú hefi eg skýrt <lb break="yes"/>frá þyðíngu lögmalsins og
+                    náðarboðskaparins. - <lb break="yes"/>En "þýðíng" getur og þýðt gildi, og er <add
+                        place="above" hand="#student">þá</add> gildi <del hand="#student"
+                        >þess</del><add place="above" hand="#student">lögmálsins</add> að <pb
+                        facs="#image_032" n="2"/> nokkru leyti fyrir alla tíma, því það er
+                        grundvöllur <lb break="yes"/>og undir staða þeirrar síðustu og fullkomnu opinber<lb break="no"
+                    />unar, það er sannleikur, sem
+                    hefur mikinn sannleika <lb break="yes"/>fólginn í sér, þó hann hafi byrst með
+                    þjóðlegum blæ <lb break="yes"/>og einstaklíngurinn hafi átt hlut að búníngi
+                        hans; <lb break="yes"/>en af þessu leiðir, að þessi opinberun getur ekki
+                        verið <lb break="yes"/>að öllu leyti fulkomin, og þurfti því að
+                        fullkomnast. <lb break="yes"/>En náðarboðskapurinn er fullkomnun
+                        lögmálsins; <lb break="yes"/>og kristur segir, að hann sé kominn í
+                        heiminn<del hand="#student">,</del> til <lb break="yes"/>þess, að fullkomna
+                    lögmálið, en ekki til þess, að ónýta <lb break="yes"/>það. Það er því
+                    náðarboðskapurinn, sem hefur að <lb break="yes"/>öllu leyti eilíft gildi, hann er
+                    opinberun sannleikans; <lb break="yes"/>þessi sannleikur er ekki búinn
+                    þjóðar-blæ, hann er <lb break="yes"/>ekki meingaður <del rend="underlining"
+                        hand="#teacher"
+                        >af</del>
+                    rángri skoðun einstaklíngsins, <lb break="yes"/>hann er almennur, hann er ljósið
+                    sem lýsir og á að lýsa <lb break="yes"/>mannkyninu um alla eilífð.</p>
+                    <p>Af því, sem nú er sagt um gildi lögmalsins og náðar <lb break="yes"
+                    />boðskaparins, má ráða, hvert sambandið sé, sem <lb break="yes"/>lögmálið er í
+                    við náðarboðskapinn. Lögmálið er undir <lb break="yes"/>búníngur og byrjun, en
+                    náðarboðskapurinn er fram<lb break="no"/>hald og fullkomnun.</p>
+                <p>Kraptur og eðli lögmálsins er, að sýna helgi skyld<lb break="no"/> <pb n="3"
+                        facs="#image_033"/>unnar að sýn vanmátt mannsins, að sýna vald <lb break="yes"/>syndarinnar, en það var ekki máttugt í vanmætti <lb break="yes"
+                    />mannsins og sigraði ekki veldi syndarinnar; mennirnir <lb break="yes"/>brutu
+                    boðorðið, þótt þeir óttuðust það og það ógnaði <lb break="yes"/>þeim með <seg
+                        xml:id="bk01">guðs</seg>
+                    <metamark function="transposition" target="#ib01" place="above"
+                        >2.</metamark>
+                    <seg xml:id="bk02">reiði</seg>
+                    <metamark function="transposition" target="#ib02" place="above"
+                        >1.</metamark>
+                    <listTranspose>
+                        <transpose>
+                            <ptr target="#bk02"/>
+                            <ptr target="#bk01"/>
+                        </transpose>
+                    </listTranspose>, og mennirnir voru án vonar um <lb break="yes"/>fyrirgefníngu.
+                    En kraptur og eðli náðar bodskaparins <lb break="yes"/>er að fræða andann, helga
+                    viljann, styrkja vanmátt<lb break="no"/>inn. Náðarboðskapurinn leysir þann
+                    trúaða úr fjöt<lb break="no"/>trum
+                    syndarinnar, svo hann getur, með verkum <lb break="yes"/>kærleikans, starfað að
+                    fullkomnun sinni og helgun <lb break="yes"/>og orðið aðnjótandi eilífrar sælu.</p>
+                <p>B Kristjánsson</p>
+            </div>
+        </body>
+    </text>
+</TEI>

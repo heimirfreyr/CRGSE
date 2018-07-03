@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="TEI_sw1_czz_4p" xml:lang="is" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <authority>LCLV19</authority>
+                <idno/>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository ref="org:Þjskjs"/>
+                        <collection>Hinn lærði skóli í Reykjavík (1846-1904)</collection>
+                        <idno/>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <profileDesc>
+            <creation>
+                <date type="written" when="1848"/>
+                <persName type="author" ref="psn:person_nkn_myz_4p"/>
+                <settlement type="written" ref="plc:place_zdf_tvj_lp"/>
+            </creation>
+            <textClass>
+                <catRef/>
+            </textClass>
+            <handNotes>
+                <handNote xml:id="student" scribeRef="psn:person_nkn_myz_4p" scope="major"/>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <facsimile xml:base="../../../XML%20skólastílar/transcriptions/1847-1848/">
+        <graphic mimeType="image/jpeg" url="IMAG0572.jpg" xml:id="image_011"/>
+        <graphic mimeType="image/jpeg" url="IMAG0573.jpg" xml:id="image_012"/>
+        <graphic mimeType="image/jpeg" url="IMAG0574.jpg" xml:id="image_013"/>
+        <graphic mimeType="image/jpeg" url="IMAG0575.jpg" xml:id="image_014"/>
+        <graphic mimeType="image/jpeg" url="IMAG0576.jpg" xml:id="image_015"/>
+        <graphic mimeType="image/jpeg" url="IMAG0577.jpg" xml:id="image_016"/>
+        <graphic mimeType="image/jpeg" url="IMAG0578.jpg" xml:id="image_017"/>
+        <graphic mimeType="image/jpeg" url="IMAG0579.jpg" xml:id="image_018"/>
+        <graphic mimeType="image/jpeg" url="IMAG0580.jpg" xml:id="image_019"/>
+        <graphic mimeType="image/jpeg" url="IMAG0581.jpg" xml:id="image_020"/>
+        <graphic mimeType="image/jpeg" url="IMAG0582.jpg" xml:id="image_021"/>
+        <graphic mimeType="image/jpeg" url="IMAG0583.jpg" xml:id="image_022"/>
+        <graphic mimeType="image/jpeg" url="IMAG0584.jpg" xml:id="image_023"/>
+        <graphic mimeType="image/jpeg" url="IMAG0585.jpg" xml:id="image_024"/>
+        <graphic mimeType="image/jpeg" url="IMAG0586.jpg" xml:id="image_025"/>
+        <graphic mimeType="image/jpeg" url="IMAG0587.jpg" xml:id="image_026"/>
+        <graphic mimeType="image/jpeg" url="IMAG0588.jpg" xml:id="image_027"/>
+        <graphic mimeType="image/jpeg" url="IMAG0589.jpg" xml:id="image_028"/>
+        <graphic mimeType="image/jpeg" url="IMAG0590.jpg" xml:id="image_029"/>
+        <graphic mimeType="image/jpeg" url="IMAG0591.jpg" xml:id="image_030"/>
+        <graphic mimeType="image/jpeg" url="IMAG0592.jpg" xml:id="image_031"/>
+        <graphic mimeType="image/jpeg" url="IMAG0593.jpg" xml:id="image_032"/>
+        <graphic mimeType="image/jpeg" url="IMAG0594.jpg" xml:id="image_033"/>
+        <graphic mimeType="image/jpeg" url="IMAG0595.jpg" xml:id="image_034"/>
+        <graphic mimeType="image/jpeg" url="IMAG0596.jpg" xml:id="image_035"/>
+        <graphic mimeType="image/jpeg" url="IMAG0597.jpg" xml:id="image_036"/>
+        <graphic mimeType="image/jpeg" url="IMAG0598.jpg" xml:id="image_037"/>
+        <graphic mimeType="image/jpeg" url="IMAG0599.jpg" xml:id="image_038"/>
+        <graphic mimeType="image/jpeg" url="IMAG0600.jpg" xml:id="image_039"/>
+        <graphic mimeType="image/jpeg" url="IMAG0601.jpg" xml:id="image_040"/>
+        <graphic mimeType="image/jpeg" url="IMAG0602.jpg" xml:id="image_041"/>
+        <graphic mimeType="image/jpeg" url="IMAG0603.jpg" xml:id="image_042"/>
+        <graphic mimeType="image/jpeg" url="IMAG0604.jpg" xml:id="image_043"/>
+        <graphic mimeType="image/jpeg" url="IMAG0605.jpg" xml:id="image_044"/>
+        <graphic mimeType="image/jpeg" url="IMAG0606.jpg" xml:id="image_045"/>
+        <graphic mimeType="image/jpeg" url="IMAG0607.jpg" xml:id="image_046"/>
+        <graphic mimeType="image/jpeg" url="IMAG0608.jpg" xml:id="image_047"/>
+        <graphic mimeType="image/jpeg" url="IMAG0609.jpg" xml:id="image_048"/>
+        <graphic mimeType="image/jpeg" url="IMAG0610.jpg" xml:id="image_049"/>
+        <graphic mimeType="image/jpeg" url="IMAG0611.jpg" xml:id="image_050"/>
+        <graphic mimeType="image/jpeg" url="IMAG0612.jpg" xml:id="image_051"/>
+        <graphic mimeType="image/jpeg" url="IMAG0613.jpg" xml:id="image_052"/>
+        <graphic mimeType="image/jpeg" url="IMAG0614.jpg" xml:id="image_053"/>
+        <graphic mimeType="image/jpeg" url="IMAG0615.jpg" xml:id="image_054"/>
+        <graphic mimeType="image/jpeg" url="IMAG0616.jpg" xml:id="image_055"/>
+        <graphic mimeType="image/jpeg" url="IMAG0617.jpg" xml:id="image_056"/>
+        <graphic mimeType="image/jpeg" url="IMAG0618.jpg" xml:id="image_057"/>
+        <graphic mimeType="image/jpeg" url="IMAG0619.jpg" xml:id="image_058"/>
+        <graphic mimeType="image/jpeg" url="IMAG0620.jpg" xml:id="image_059"/>
+        <graphic mimeType="image/jpeg" url="IMAG0621.jpg" xml:id="image_060"/>
+        <graphic mimeType="image/jpeg" url="IMAG0622.jpg" xml:id="image_061"/>
+        <graphic mimeType="image/jpeg" url="IMAG0623.jpg" xml:id="image_062"/>
+        <graphic mimeType="image/jpeg" url="IMAG0624.jpg" xml:id="image_063"/>
+        <graphic mimeType="image/jpeg" url="IMAG0625.jpg" xml:id="image_064"/>
+        <graphic mimeType="image/jpeg" url="IMAG0626.jpg" xml:id="image_065"/>
+        <graphic mimeType="image/jpeg" url="IMAG0627.jpg" xml:id="image_066"/>
+        <graphic mimeType="image/jpeg" url="IMAG0628.jpg" xml:id="image_067"/>
+        <graphic mimeType="image/jpeg" url="IMAG0629.jpg" xml:id="image_068"/>
+        <graphic mimeType="image/jpeg" url="IMAG0630.jpg" xml:id="image_069"/>
+        <graphic mimeType="image/jpeg" url="IMAG0631.jpg" xml:id="image_070"/>
+        <graphic mimeType="image/jpeg" url="IMAG0632.jpg" xml:id="image_071"/>
+        <graphic mimeType="image/jpeg" url="IMAG0633.jpg" xml:id="image_072"/>
+        <graphic mimeType="image/jpeg" url="IMAG0634.jpg" xml:id="image_073"/>
+        <graphic mimeType="image/jpeg" url="IMAG0635.jpg" xml:id="image_074"/>
+        <graphic mimeType="image/jpeg" url="IMAG0636.jpg" xml:id="image_075"/>
+        <graphic mimeType="image/jpeg" url="IMAG0637.jpg" xml:id="image_076"/>
+        <graphic mimeType="image/jpeg" url="IMAG0638.jpg" xml:id="image_077"/>
+        <graphic mimeType="image/jpeg" url="IMAG0639.jpg" xml:id="image_078"/>
+        <graphic mimeType="image/jpeg" url="IMAG0640.jpg" xml:id="image_079"/>
+        <graphic mimeType="image/jpeg" url="IMAG0641.jpg" xml:id="image_080"/>
+        <graphic mimeType="image/jpeg" url="IMAG0642.jpg" xml:id="image_081"/>
+        <graphic mimeType="image/jpeg" url="IMAG0643.jpg" xml:id="image_082"/>
+        <graphic mimeType="image/jpeg" url="IMAG0644.jpg" xml:id="image_083"/>
+        <graphic mimeType="image/jpeg" url="IMAG0645.jpg" xml:id="image_084"/>
+        <graphic mimeType="image/jpeg" url="IMAG0646.jpg" xml:id="image_085"/>
+        <graphic mimeType="image/jpeg" url="IMAG0647.jpg" xml:id="image_086"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="assignment" facs="#image_011">
+                <p> Þegar lausnarinn mælti þessum orðum <lb break="yes"/>hafði hann átt tal við mann
+                        nokkurn, <lb break="yes"/>sem kom til hans og vildi fræðast af honum. <lb break="yes"/>Jesú geðjaðist vel að svörum hans og fann <lb break="yes"/>að
+                    hann raunar hafði fúsan vilja, til hins <lb break="yes"/>góða, en vilji sá var
+                    hverki nógu hreinn <lb break="yes"/>né stirkur, því þegar honum var lögð sú <lb break="yes"/>skylda á herðar, að láta aleigu sína, varð <lb break="yes"/>hann
+                    hryggur við. Slíkt hefir vafalaust <lb break="yes"/>optar borið við, að
+                    auðshyggja og heimsást hafa <lb break="yes"/>hamlað mönnum frá, að gjörast
+                        lærisveinar <lb break="yes"/>Krists, og því kemst hann svo skorinorðt að
+                        orði, <lb break="yes"/>að hann segir: "að hægra sé úlfaldanum" o. sv. frv. <lb break="yes"/>En þó í orðum þessum sé tekið svona djúpt <lb break="yes"/>í
+                    árinni, er þýðing þeirra enganvegin sú, að <lb break="yes"/>réttfengin auðlegð
+                    sé nokkuð íllt í sjálfu <lb break="yes"/>sér, því í sjálfu sér gjörir hún
+                    manninn hverki <lb break="yes"/>betri né verri, heldur er það hans eigin
+                        breytni <lb break="yes"/>eða meðferð hans á efnum þeim, sem honum <lb break="yes"/>hafa verið léð, sem annaðhvert bæta hann <lb break="yes"/>eða
+                    spilla honum, eptir þeim áhrifum, sem <lb break="yes"/>það hefir á hugarfar hans.
+                    En það er eins <lb break="yes"/>með auðinn og hvað annað, sem mannin<lb
+                        break="no"/>um er trúað fyrir, að því meira sem honum <lb break="yes"/>er
+                    veitt, því meira verður af honum heimtað <lb break="yes"/>og því meiri sem
+                    kraptarnir eru, því meiri <lb break="yes"/>á framkvæmdin að vera, og aptur á
+                        hinn <lb break="yes"/>bóginn verður skuldin því meiri, ef efnun<lb break="yes"
+                        /> <pb n="2" facs="#image_012"/>um er ílla varið, sem lánsféð var meira í <lb break="yes"/>fyrstu. Þessvegna er hinum ríka manni <lb break="yes"/>enn meiri
+                    vandi á höndum enn hinum, <lb break="yes"/>sem minna hefir þegið, því bæði
+                        getur <lb break="yes"/>hann komið meiru góðu til vegar, ef hann <lb break="yes"/>ver auðnum rétt, og líka er honum hættara, <lb break="yes"/>en
+                    hinum, að hjarta hans festist <unclear reason="hand" hand="#student">öf
+                        mjög</unclear> <lb break="yes"/>við auðinn, því reynslan hefir jafnan
+                        sýnt, <lb break="yes"/>að auðshyggjan herðir fjötra þá, sem hún leggur <lb break="yes"/>manninn í, því fastar, sem meiri auður <lb break="yes"/>jafnast
+                    að honum; því meira sem hann hefir <lb break="yes"/>undir höndum, því meiru hefir
+                    hann að <lb break="yes"/>finna og því meir dregst opt og einatt hugur <lb break="yes"/>hans frá himnum að heiminum, en heims<lb break="no"/>elska og
+                    guðselska geta ekki lifað saman í <lb break="yes"/>sama hjarta; enginn
+                        <del>gjetur</del> þjónað tveim <lb break="yes"/>herrum í senn, svo getur og
+                    enginn bæði <lb break="yes"/>Guði þjónað og auðnum. Auðurinn er optlega <lb break="yes"/>einsog skilmáli fyrir öðrum útvortis gæðum <lb break="yes"/>er
+                    menn svo kalla; hinn ríki á hægra með <lb break="yes"/>en öreiginn að afla sér
+                    fræðslu og menníngar; <lb break="yes"/>hann á hægra með að láta útvortis
+                        góðverk <lb break="yes"/>ljóma fyrir mönnum; hann á því hægra <lb break="yes"
+                    />með að afla sér álits og virðíngar hjá öðrum, <lb break="yes"/>völd og metorð
+                    verða optar hlutfall hans<lb break="yes"/>en hinns, sem ekkert á til, og þó hann <lb break="yes"/>í rauninni hafi enga sanna kosti til <lb break="yes"/>að bera,
+                    er hans þó optast nær að meira <pb n="3" facs="#image_013"/>getið, en hins
+                    snauða. Af þessu flýtur, að auð<lb break="no"/>ur verður jafnan fyrir meiri
+                    eptirsókn manna <lb break="yes"/>en <add place="above" hand="#student"
+                        >flest</add> önnur heimsgæði, af því mörgum sýnist <lb break="yes"/>sem hann
+                    sé rót þeirra allra, en þeir gæta <lb break="yes"/>þess ekki, að þegar þeir
+                    safna auði, sá þeir <lb break="yes"/>einatt til ágirndar, sem er rót alls
+                        ills. <lb break="yes"/>Og það er ekki ágirndin ein, sem auðurinn <lb break="yes"/>hefir opt í för með sér, aðrar íllar fýsnir <lb break="yes"/>og
+                    ástríður verða jafnaðarlega honum sam<lb break="no"/>fara. Auðmaðurinn á hægra
+                    með að láta <lb break="yes"/>eptir laungunum sínum, en fátæklíngur<lb break="no"
+                    />inn, en þó einni sé einusinni svalað <lb break="yes"/>kemur hún jafnan aptur
+                    með sjö aðrar sér <lb break="yes"/>verri og maðurinn verður ver staddur <lb break="yes"/>eptir, en áður, því einsog þegar ein aldan <lb break="yes"
+                    />brotnar, þá rísa ótal aptur, eins er það, þeg<lb break="no"/>ar einni girnd er
+                    fullnægt, þá æsir það <lb break="yes"/>ótal aðrar. Þegar svo er komið fyrir
+                        mann<lb break="no"/>inum, að fýsnir hans hafa náð svo ríku <lb break="yes"
+                    />valdi yfir honum, þá er Guðs ríki ekki <lb break="yes"/>hjá honum, því það
+                    hjarta <add place="above" hand="#student">þar</add> sem <del hand="#student">[er
+                            bústað<lb break="no"/>ur]</del> svo margar íllar girndir lifa og
+                        þróast, <lb break="yes"/>það getur ekki verið musteri heilags anda; <lb break="yes"/>þar sem drambsemi og úlfbúð, öfund og <lb break="yes"
+                    />eigingirni, og aðrir lestir, sem leiðt geta af <lb break="yes"/>raungu áliti á
+                    auðnum og rángri notkun <lb break="yes"/>hans -- þar sem þetta ríkir, þar
+                        getur <pb n="4" facs="#image_014"/>ekki Guðs ríki verið, því Guðs ríki er
+                        <del hand="#student">(friður)</del> <lb break="yes"/>hverki matur né drykkur
+                        <add place="above" hand="#student">auður né upphefð</add>, heldur friður
+                        og <lb break="yes"/>fögnuður í heilögum anda. Sé hinn ríki <lb break="yes"
+                    />maður svo staddur, þá má, meðan svo er, með <lb break="yes"/>fullum rétti
+                    segja, "að hægra sé úlfaldanum <lb break="yes"/>að gánga gegnum nálaraugað, en
+                        slíkum <lb break="yes"/>manni að komast í Guðs ríki".</p>
+                <p>Helgi Hálfdánarson</p>
+            </div>
+        </body>
+    </text>
+</TEI>

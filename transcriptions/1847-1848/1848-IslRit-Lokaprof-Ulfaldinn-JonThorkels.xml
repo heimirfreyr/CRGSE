@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="TEI_jll_rwv_pp" xml:lang="is" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Að útlista þessi orð lausnarans: auðveldara er úlfaldanum að gánga gegnum
+                    nálaraugað, en ríkum manni inn í gudsríki.</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>LCLV19</authority>
+                <idno/>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository ref="org:Þjskjs"/>
+                        <collection>Hinn lærði skóli í Reykjavík (1846-1904)</collection>
+                        <idno/>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <profileDesc>
+            <creation>
+                <date type="written" when="1848" cert="high"/>
+                <persName type="author" ref="psn:person_zzt_lwv_pp"/>
+                <settlement type="written" ref="plc:place_zdf_tvj_lp"/>
+            </creation>
+            <textClass>
+                <catRef/>
+            </textClass>
+            <handNotes>
+                <handNote xml:id="student" scribeRef="psn:person_zzt_lwv_pp" scope="sole">Jón Þorkelsson uses a straight /d/ for the 'd'. The /ð/ varies in form but appears never to be straight (always uncial). The straight /d/ will thus be transcribed as 'd', the rest (uncial) as 'ð'.</handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <facsimile xml:base="../../../XML%20skólastílar/transcriptions/1847-1848/">
+        <graphic mimeType="image/jpeg" url="IMAG0572.jpg" xml:id="image_013"/>
+        <graphic mimeType="image/jpeg" url="IMAG0573.jpg" xml:id="image_014"/>
+        <graphic mimeType="image/jpeg" url="IMAG0574.jpg" xml:id="image_015"/>
+        <graphic mimeType="image/jpeg" url="IMAG0575.jpg" xml:id="image_016"/>
+        <graphic mimeType="image/jpeg" url="IMAG0576.jpg" xml:id="image_017"/>
+        <graphic mimeType="image/jpeg" url="IMAG0577.jpg" xml:id="image_018"/>
+        <graphic mimeType="image/jpeg" url="IMAG0578.jpg" xml:id="image_019"/>
+        <graphic mimeType="image/jpeg" url="IMAG0579.jpg" xml:id="image_020"/>
+        <graphic mimeType="image/jpeg" url="IMAG0580.jpg" xml:id="image_021"/>
+        <graphic mimeType="image/jpeg" url="IMAG0581.jpg" xml:id="image_022"/>
+        <graphic mimeType="image/jpeg" url="IMAG0582.jpg" xml:id="image_023"/>
+        <graphic mimeType="image/jpeg" url="IMAG0583.jpg" xml:id="image_024"/>
+        <graphic mimeType="image/jpeg" url="IMAG0584.jpg" xml:id="image_025"/>
+        <graphic mimeType="image/jpeg" url="IMAG0585.jpg" xml:id="image_026"/>
+        <graphic mimeType="image/jpeg" url="IMAG0586.jpg" xml:id="image_027"/>
+        <graphic mimeType="image/jpeg" url="IMAG0587.jpg" xml:id="image_028"/>
+        <graphic mimeType="image/jpeg" url="IMAG0588.jpg" xml:id="image_029"/>
+        <graphic mimeType="image/jpeg" url="IMAG0589.jpg" xml:id="image_030"/>
+        <graphic mimeType="image/jpeg" url="IMAG0590.jpg" xml:id="image_031"/>
+        <graphic mimeType="image/jpeg" url="IMAG0591.jpg" xml:id="image_032"/>
+        <graphic mimeType="image/jpeg" url="IMAG0592.jpg" xml:id="image_033"/>
+        <graphic mimeType="image/jpeg" url="IMAG0593.jpg" xml:id="image_034"/>
+        <graphic mimeType="image/jpeg" url="IMAG0594.jpg" xml:id="image_035"/>
+        <graphic mimeType="image/jpeg" url="IMAG0595.jpg" xml:id="image_036"/>
+        <graphic mimeType="image/jpeg" url="IMAG0596.jpg" xml:id="image_037"/>
+        <graphic mimeType="image/jpeg" url="IMAG0597.jpg" xml:id="image_038"/>
+        <graphic mimeType="image/jpeg" url="IMAG0598.jpg" xml:id="image_039"/>
+        <graphic mimeType="image/jpeg" url="IMAG0599.jpg" xml:id="image_040"/>
+        <graphic mimeType="image/jpeg" url="IMAG0600.jpg" xml:id="image_041"/>
+        <graphic mimeType="image/jpeg" url="IMAG0601.jpg" xml:id="image_042"/>
+        <graphic mimeType="image/jpeg" url="IMAG0602.jpg" xml:id="image_043"/>
+        <graphic mimeType="image/jpeg" url="IMAG0603.jpg" xml:id="image_044"/>
+        <graphic mimeType="image/jpeg" url="IMAG0604.jpg" xml:id="image_045"/>
+        <graphic mimeType="image/jpeg" url="IMAG0605.jpg" xml:id="image_046"/>
+        <graphic mimeType="image/jpeg" url="IMAG0606.jpg" xml:id="image_047"/>
+        <graphic mimeType="image/jpeg" url="IMAG0607.jpg" xml:id="image_048"/>
+        <graphic mimeType="image/jpeg" url="IMAG0608.jpg" xml:id="image_049"/>
+        <graphic mimeType="image/jpeg" url="IMAG0609.jpg" xml:id="image_050"/>
+        <graphic mimeType="image/jpeg" url="IMAG0610.jpg" xml:id="image_051"/>
+        <graphic mimeType="image/jpeg" url="IMAG0611.jpg" xml:id="image_052"/>
+        <graphic mimeType="image/jpeg" url="IMAG0612.jpg" xml:id="image_053"/>
+        <graphic mimeType="image/jpeg" url="IMAG0613.jpg" xml:id="image_054"/>
+        <graphic mimeType="image/jpeg" url="IMAG0614.jpg" xml:id="image_055"/>
+        <graphic mimeType="image/jpeg" url="IMAG0615.jpg" xml:id="image_056"/>
+        <graphic mimeType="image/jpeg" url="IMAG0616.jpg" xml:id="image_057"/>
+        <graphic mimeType="image/jpeg" url="IMAG0617.jpg" xml:id="image_058"/>
+        <graphic mimeType="image/jpeg" url="IMAG0618.jpg" xml:id="image_059"/>
+        <graphic mimeType="image/jpeg" url="IMAG0619.jpg" xml:id="image_060"/>
+        <graphic mimeType="image/jpeg" url="IMAG0620.jpg" xml:id="image_061"/>
+        <graphic mimeType="image/jpeg" url="IMAG0621.jpg" xml:id="image_062"/>
+        <graphic mimeType="image/jpeg" url="IMAG0622.jpg" xml:id="image_063"/>
+        <graphic mimeType="image/jpeg" url="IMAG0623.jpg" xml:id="image_064"/>
+        <graphic mimeType="image/jpeg" url="IMAG0624.jpg" xml:id="image_065"/>
+        <graphic mimeType="image/jpeg" url="IMAG0625.jpg" xml:id="image_066"/>
+        <graphic mimeType="image/jpeg" url="IMAG0626.jpg" xml:id="image_067"/>
+        <graphic mimeType="image/jpeg" url="IMAG0627.jpg" xml:id="image_068"/>
+        <graphic mimeType="image/jpeg" url="IMAG0628.jpg" xml:id="image_069"/>
+        <graphic mimeType="image/jpeg" url="IMAG0629.jpg" xml:id="image_070"/>
+        <graphic mimeType="image/jpeg" url="IMAG0630.jpg" xml:id="image_071"/>
+        <graphic mimeType="image/jpeg" url="IMAG0631.jpg" xml:id="image_072"/>
+        <graphic mimeType="image/jpeg" url="IMAG0632.jpg" xml:id="image_073"/>
+        <graphic mimeType="image/jpeg" url="IMAG0633.jpg" xml:id="image_074"/>
+        <graphic mimeType="image/jpeg" url="IMAG0634.jpg" xml:id="image_075"/>
+        <graphic mimeType="image/jpeg" url="IMAG0635.jpg" xml:id="image_076"/>
+        <graphic mimeType="image/jpeg" url="IMAG0636.jpg" xml:id="image_077"/>
+        <graphic mimeType="image/jpeg" url="IMAG0637.jpg" xml:id="image_078"/>
+        <graphic mimeType="image/jpeg" url="IMAG0638.jpg" xml:id="image_079"/>
+        <graphic mimeType="image/jpeg" url="IMAG0639.jpg" xml:id="image_080"/>
+        <graphic mimeType="image/jpeg" url="IMAG0640.jpg" xml:id="image_081"/>
+        <graphic mimeType="image/jpeg" url="IMAG0641.jpg" xml:id="image_082"/>
+        <graphic mimeType="image/jpeg" url="IMAG0642.jpg" xml:id="image_083"/>
+        <graphic mimeType="image/jpeg" url="IMAG0643.jpg" xml:id="image_084"/>
+        <graphic mimeType="image/jpeg" url="IMAG0644.jpg" xml:id="image_085"/>
+        <graphic mimeType="image/jpeg" url="IMAG0645.jpg" xml:id="image_086"/>
+        <graphic mimeType="image/jpeg" url="IMAG0646.jpg" xml:id="image_087"/>
+        <graphic mimeType="image/jpeg" url="IMAG0647.jpg" xml:id="image_088"/>
+    </facsimile>
+    <text xml:lang="is">
+        <body>
+            <div type="assignment" facs="#image_020">
+                <p> I Niatestamentinu koma fyrir margir <lb break="yes"/>staðir svipaðir þessum stað,
+                    sem ekki má skilja <lb break="yes"/>bókstaflega eða beinlínis eptir því sem
+                        orðin <lb break="yes"/>liggja; því ef það væri gjört, mundi svo virðast <lb break="yes"/>sem ritingin kæmist í óteljandi mótsagnir <lb break="yes"/>við
+                    sjálfa sig, og þá kæmu fyrir ótal flækjur, <lb break="yes"/>sem aldrei yrðu
+                    greiddar. Slíkir staðir <lb break="yes"/>koma víða fyrir, sem sýnast hver öðrum
+                        ólíkir <lb break="yes"/>eða gagnstæðir og sem ólíkar eða jafnvel gagn<lb
+                        break="no"/>stæðar kenníngar hafa verið leiddar utaf; því <pb n="2"
+                        facs="#image_021" break="yes"/>allir kristnir trúarbragða kennendur hafa <lb break="yes"/>borið ritnínguna fyrir kenningu sinni, eða <lb break="yes"/>að
+                    minnstakosti einhvern stað úr henni; en <lb break="yes"/>margir af þeim hafa
+                    misskilið hana, af því <lb break="yes"/>þeir hafa ei komist lengra enn að
+                        bókstafnum, <lb break="yes"/>en ekki náð andanum; þeir hafa hripsað ein<lb
+                        break="no"/>hvern einstakan stað út úr sambandinu, en <lb break="yes"/>ekki
+                    gætt þess að hann mátti ei skoðast ein<lb break="no"/>stakur og utaf fyrir sig,
+                    heldur sem einn liður<lb/>eða partur af öllu kerfi kenníngarinnar; þeir <lb break="yes"/>hafa ei tekið nógu vandlega eptir við hvaða tæki<lb break="no"
+                    />færi hver einstakur kafli kenníngarinnar var <lb break="yes"/>framsettur og
+                    ekki borið einstakar greinir ritn<lb break="no"/>íngarinnar saman, til að geta
+                    séð hvaða andi <lb break="yes"/>lifir í henni allri og gengur gegnum hana <pb
+                        n="3" facs="#image_022" break="yes"/>alla, en allt þetta verður að aðgætast,
+                        ef <lb break="yes"/>ritningin á að geta orðið rett skilin.</p>
+                <p>Dæmi uppá þá staði í Niatestamentinu, <lb break="yes"/>sem í fyrsta áliti virðast
+                    gagnstæðir og sem <lb break="yes"/>má draga gagnstæðar kenníngar útaf, ef þeir <lb break="yes"/>eru misskildir, er það, hvernig Postularnir Páll <lb break="yes"
+                    />og Jakob útlista sambandið milli trúar og verka, <lb break="yes"/>þar sem Páll
+                    tekur mest fram trúna og segir, <lb break="yes"/>að maðurinn rettlætist einungis
+                    af henni, en Ja<lb break="no"/>kob þarámóti segir, að einsog líkami án sálar <lb break="yes"/>sé dauður, eins sé trúin dauð án verkanna. <lb break="yes"
+                    />Þessar kenníngar sýnast gagnstæðar; þegar <lb break="yes"/>þess er ekki gætt
+                    hvernig trú þeirra manna var <lb break="yes"/>háttað, sem hver Postulinn fyrir
+                    sig átti orða<lb break="no"/>stað við, að Páll átti við Gyðinga, sem leyt<pb
+                        n="4" facs="#image_023" break="no"/><lb break="no"/>uðu sér rettlætingar af
+                    verkum lögmálsins, <lb break="yes"/>en Jakob við heiðingja sem báru fyrir sig <lb break="yes"/>hina dauðu trú, og að þeir ɔ: Postularnir þurf<lb break="no"
+                    />tu að taka fram sinn hverja hlið hins andlega <lb break="yes"/>lífs; en sé
+                    þessa gætt, er hægt að koma hvoru<lb break="no"/>tveggju kenningunum saman og þá
+                    verða all<lb break="no"/>ar mótsagnir að engu.</p>
+                <p>Sem dæmi upp á gagnstæðar skoðanir, sem <lb break="yes"/>hvor<add place="above"
+                        hand="#student">u</add>tveggja bera fyrir sig ritninguna, er skoð<lb
+                        break="no"/>un Endurskýrenda og katholskra á kyrk<lb break="no"/>junni,
+                    þarsem hinir fyrri taka einungis fram <lb break="yes"/>hina ósýnilegu hlið
+                    hennar, en hinir seinni <lb break="yes"/>hina sýnilegu.</p>
+                <p>Þegar það, sem eg hefi nú sagt, er heimfært til <lb break="yes"/>þeirrar greinar,
+                    sem her á að útlista, þá verður <lb break="yes"/>að gæta þess, við hvern kristur
+                    átti her orða<lb break="no"/> <pb facs="#image_024" n="5" break="yes"/>stað, hvað
+                    hann þurfti helzt að taka fram <lb break="yes"/>við hann og við hverju hann
+                    þurfti að vara <lb break="yes"/>hann; það var auðurinn sem helzt dró hjarta <lb break="yes"/>þessa mans frá guði og þessvegna varð kristr <lb break="yes"
+                    />líka að vara hann við að festa ei of mjög hjarta <lb break="yes"/>sitt við
+                    auðinn, og það varð hann að gjora með <lb break="yes"/>þeim orðum, sem hinum yrðu
+                    minnisstæð.</p>
+                <p>Það liggur nú í augum uppí, að ekki má skilja <lb break="yes"/>þessi orð krists
+                    bókstaflega, það má ei skilja <lb break="yes"/>þau svo, að auðurinn geri ætíð eða
+                    hljoti að gera <lb break="yes"/>aðskilnað milli guðs og mansins, að serhver
+                        ríkur <lb break="yes"/>maður sé útilokaður frá sameiníngu og sam<lb
+                        break="no"/>lífi við guð og eilífu lífi, að nautn hinna jarð<lb break="no"
+                    />nesku og timanlegu gæða utiloki manninn <lb break="yes"/>ætið frá nautn hinna
+                    himnesku og eilífu.</p>
+                <p>Væri þetta svo að skilja, þá leiddi þaraf, að <pb break="yes" n="6"
+                        facs="#image_025"/>maðurinn ætti að hafna auðnum og jafnframt <lb break="yes"
+                    />öllum þeim lifsins gæðum og unaðsemdum, sem <lb break="yes"/>eign og notkun
+                    hans veitir manni. En þetta er <lb break="yes"/>gagnstæðt bæði lífi og kenníngu
+                    krists, því bæði <lb break="yes"/>naut hann lífsins gæða og kendi, að sælla
+                        væri <lb break="yes"/>að gefa enn þiggja, og það verður herumbil hið <lb break="yes"/>sama sem hann hefði sagt, að sælla væri að vera <lb break="yes"
+                    />rikur enn fátækur, þó því að eins, að hinn ríki <lb break="yes"/>verði auðnum
+                    sam kvæmt tilgángi þess, sem auð<lb break="no"/>inn gaf og sem öll góð og
+                    fullkomin gjöf kem<lb break="no"/>ur frá.</p>
+                <p>Her er kristur að sýna hversu miklar tálm<lb break="no"/>anir auðurinn leggi í
+                    veginn fyrir manninn; <lb break="yes"/>hversu örðugt það sé fyrir þann, sem hafi
+                        fest <lb break="yes"/>hjarta sitt við auðinn, að snúa hug og hjarta <lb break="yes"/>til guðs, hvernig <del hand="#student">mes</del> misbrúkun
+                    auðsins villi <pb break="yes" n="7" facs="#image_026"/>sjónir fyrir manninum og
+                    leiði hann frá <lb break="yes"/>sinni andlegu ákvörðun, hvernig hun snýr <lb break="yes"/>huga hans frá hinu himneska til hins jarðneska <lb break="yes"
+                    />frá hinu eilifa til hins timanlega.</p>
+                <p>Þessa hugsun orðar kristur svona: auðveldara <lb break="yes"/>er ulfaldanum, að
+                    gánga gegnum nálaraugað, <lb break="yes"/>en ríkum manni inn í himnaríki.</p>
+                <p>Jón Þorkelsson</p>
+            </div>
+        </body>
+    </text>
+</TEI>
