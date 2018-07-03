@@ -1,0 +1,15 @@
+<locatingRules xmlns="http://thaiopensour ce.com/ns/ locating- rules/1.0">
+
+<!-- If there is a particular URI patter n for TEI files -->
+<uri pattern="*.tei" typeId="TEI" />
+
+<!-- If there is a namespace for TEI elements -->
+<namespace ns="http://www.tei. org/namespace" typeId="TEI" />
+
+<!-- If there is a typical root element name, with (optionally)
+a typical prefix used for it -->
+<documentElement localName="root" prefix="tei" typeId="TEI" />
+
+<typeId id="TEI" uri="main-tei- tei_ms.rnc" />
+
+</locatingRules>

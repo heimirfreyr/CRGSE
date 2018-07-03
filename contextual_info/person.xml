@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="/home/heimir/Skjöl/19LCLV/XML skólastílar/LVLC19.xml/LVLC19/css/contextual_info.css"?>
+<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>List of People</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>LVLC19</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <listPerson>
+                    <person xml:id="person_jnh_x5j_lp">
+                        <persName>
+                            <forename>Jakob</forename>
+                            <surname>Guðmundsson</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <education when="1847">II</education>
+                        <occupation when="1896" cert="high">priest </occupation>
+                        <birth when="1821-06-10" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1890-05-07">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_d1q_dgm_rp">
+                        <persName>
+                            <roleName/>
+                            <forename>Bjarni</forename>
+                            <surname>Einarsson</surname>
+                            <surname>Thorlacius</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation when="1896" cert="high">cand. philos., settur læknir á
+                            Eskifirði</occupation>
+                        <education when="1848" cert="high">II</education>
+                        <birth when="1823-03-18" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1867-12-02" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_ift_b4l_rp">
+                        <persName>
+                            <roleName/>
+                            <forename>Ólafur Bjarni V. Stef. Lud.</forename>
+                            <surname>Gunnlögsen</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation when="1896" cert="high">cand. philos., blaðstj. í París.
+                            Dr.phil.</occupation>
+                        <education when="1848" cert="high">II</education>
+                        <birth when="1831-01-20" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1894-07-22" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_xym_h31_sp">
+                        <persName>
+                            <roleName/>
+                            <forename>Brynjólfur</forename>
+                            <surname>Jónsson</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation when="1896" cert="high">prestur í Vestmannaeyjum</occupation>
+                        <education when="1896" cert="high">I</education>
+                        <birth when="1826-09-08" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1884-11-19" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_fpb_41g_rp">
+                        <persName>
+                            <roleName/>
+                            <forename>Magnús</forename><surname>Grímsson</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation when="1896" cert="high">prestur að Mosfelli í
+                            Mosfellssveit</occupation>
+                        <education when="1848" cert="high">II</education>
+                        <birth when="1825-06-03" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1860-01-18" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_fns_nlc_qp">
+                        <persName>
+                            <roleName/>
+                            <forename>Hannes Kristj. Steingr.</forename>
+                            <surname>Ólafsson</surname>
+                            <surname>Finsen</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation when="1896" cert="high">stiptamtmaður yfir Rípastipti í Danmörku
+                            R. og dbrm. </occupation>
+                        <education when="1848" cert="high">II</education>
+                        <birth when="1828-05-13" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1892-11-18" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_zzt_lwv_pp">
+                        <persName>
+                            <roleName/>
+                            <forename>Jón</forename>
+                            <surname>Þorkelsson</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation>fyrv. rektor við hinn lærða skóla, Dr. phil.</occupation>
+                        <education>I</education>
+                        <birth when="1822-11-05" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1904-01-21" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_lsk_gpv_pp">
+                        <persName>
+                            <roleName/>
+                            <forename>Karl Kristján Þorvaldur</forename>
+                            <surname>Andersen</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation when="1896" cert="high">cand. philos., umsjónarmaður á
+                            Rósenborgarhöll í Khöfn, skáld og rithöf., R.</occupation>
+                        <education when="1896" cert="high">II</education>
+                        <birth when="1828-10-26" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1883-09-01" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_yjp_fvz_4p">
+                        <persName>
+                            <roleName/>
+                            <forename>Páll Friðrik</forename>
+                            <surname>Vídalín</surname>
+                            <surname>Jónsson</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation when="1896" cert="high">bóndi í Víðidalstungu,
+                            alþm.</occupation>
+                        <education when="1847" cert="high">II</education>
+                        <birth when="1827-03-03" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1873-10-20" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_u4x_q2p_lp">
+                        <persName>
+                            <forename>Þórður</forename>
+                            <surname>Þórðarson</surname>
+                            <surname>Jónassen</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <education when="1847">II</education>
+                        <occupation cert="high" when="1896">priest </occupation>
+                        <birth when="1825-04-15" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1884-01-13" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_xxr_ybw_lp">
+                        <persName>
+                            <forename>Páll</forename>
+                            <surname>Jónsson</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <education when="1847">II</education>
+                        <occupation cert="high" when="1896">priest </occupation>
+                        <birth when="1817-01-15" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1870-11-18" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_m3f_42w_lp">
+                        <persName>
+                            <forename>Teacher</forename>
+                            <surname>Unspecified</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation cert="unknown">teacher</occupation>
+                        <birth cert="unknown" from="1750">
+                            <settlement/>
+                        </birth>
+                        <death cert="unknown" to="1850">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_rrc_33w_lp">
+                        <persName>
+                            <roleName/>
+                            <forename>Jón</forename>
+                            <surname>Snæbjarnarson</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation cert="high" when="1896">sýslumaður</occupation>
+                        <education when="1847">II</education>
+                        <birth when="1824-09-30" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1860-08-31" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_z1q_hmw_lp">
+                        <persName>
+                            <roleName/>
+                            <forename>Magnús</forename>
+                            <surname>Hallgrímsson</surname>
+                            <surname>Thorlacíus</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation when="1896" cert="high">prestur</occupation>
+                        <education when="1847">II</education>
+                        <birth when="1820-01-21" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1878-12-15" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_hbt_dmd_4p">
+                        <persName>
+                            <roleName/>
+                            <forename>Benedikt</forename>
+                            <surname>Kristjánsson</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation when="1896" cert="high">priest</occupation>
+                        <education when="1847" cert="high">II</education>
+                        <birth when="1824-03-16" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death>
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_nth_yzd_4p">
+                        <persName>
+                            <roleName/>
+                            <forename>Árni</forename>
+                            <surname>Bjarnason</surname>
+                            <surname>Thorsteinsson</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation when="1896" cert="high">landfógeti í Rvík. R. og dbrm Kgk.
+                            alþm.</occupation>
+                        <education when="1847" cert="high">II</education>
+                        <birth when="1828-04-05">
+                            <settlement/>
+                        </birth>
+                        <death>
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_ubr_pf2_4p">
+                        <persName>
+                            <roleName/>
+                            <forename>Þórarinn</forename>
+                            <surname>Böðvarsson</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation when="1896" cert="high">prófastur, prestur að Görðum á
+                            Álptanesi, alþm.</occupation>
+                        <education when="1847" cert="high">II</education>
+                        <birth when="1825-05-03" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1895-05-24" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_nkn_myz_4p">
+                        <persName>
+                            <roleName/>
+                            <forename>Helgi</forename>
+                            <surname>Hálfdánarson</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation when="1896" cert="high">lector theol., forstöðum. prestaskólans
+                            í Rvík. R. og dbrm.</occupation>
+                        <education when="1848">I</education>
+                        <birth when="1826-08-19">
+                            <settlement/>
+                        </birth>
+                        <death when="1895-01-02" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                    <person xml:id="person_rmn_t1x_sp">
+                        <persName>
+                            <roleName/>
+                            <forename>Jón Constant</forename>
+                            <surname>Ólafsson</surname>
+                            <surname>Finsen</surname>
+                        </persName>
+                        <sex value="1"/>
+                        <occupation when="1896" cert="high">stiptslæknir yfir Lálandi og Falstri.
+                            Dr. med. </occupation>
+                        <education when="1848" cert="high">II</education>
+                        <birth when="1826-11-24" cert="high">
+                            <settlement/>
+                        </birth>
+                        <death when="1885-10-12" cert="high">
+                            <settlement/>
+                        </death>
+                    </person>
+                </listPerson>
+
+                <listRelation type="personal">
+                    <relation name="parent"/>
+                    <relation name="spouse"/>
+                </listRelation>
+
+            </listPerson>
+        </body>
+    </text>
+</TEI>
