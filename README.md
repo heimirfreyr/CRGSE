@@ -5,4 +5,6 @@ Containing samples from 1847-48, 1852, 1855, 1860-61, 1875, 1890. A partial, exp
 – *Feel free to join in!* Over a thousand pages here on GitHub just waiting to be transcribed. This is less than 5% of the whole amount of Icelandic student assignments (1847-1909) preserved at the National Archives of Iceland, based on a rough estimate.
 
 
+
+
 ![Proof of concept](https://uni.hi.is/hfv3/files/2018/07/transcription.png)
