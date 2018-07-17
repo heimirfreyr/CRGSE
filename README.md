@@ -18,3 +18,17 @@ Over a thousand pages here on GitHub are just waiting to be transcribed. This is
 
  
 ![Proof of concept](https://uni.hi.is/hfv3/files/2018/07/transcription.png)
+
+See further a (partly overlapping) edition of a selection of 189 essays, published by Bragi Þorgrímur Ólafsson (2004), excluding corrections, in addition to discussion and examples in Heimir van der Feest Viðarsson (2016, 2017) and Alda B. Möller (2017).   
+
+
+**References**
+- Möller, Alda B. 2017. Íslenskukennsla í Bessastaðaskóla 1806–1846 og á fyrstu árum Reykjavíkurskóla. *Orð og tunga/ 19:1–40.
+
+- Ólafsson, Bragi Þorgrímur. 2004. *Landsins útvöldu synir: Ritgerðir skólapilta Lærða skólans í íslenskum stíl 1846‒1904.* Sýnisbók íslenskrar alþýðumenningar 7. Reykjavík: Háskólaútgáfan.
+
+- Viðarsson, Heimir van der Feest. 2016. The Syntax of Others: ‘Un-Icelandic’ Verb Placement in 19th- and Early 20th-Century Icelandic. In *Prescription and Tradition in Language: Establishing Standards across Time and Space*, ed. Ingrid Tieken-Boon
+van Ostade and Carol Percy, Multilingual Matters 165, 152–167. Bristol/Blue Ridge
+Summit: Multilingual Matters.
+
+- Viðarsson, Heimir van der Feest. 2017. Málnotkun sem mælikvarði á áhrif málstöðlunar: Skólaritgerðir úr Lærða skólanum í Reykjavík (1846-1904). *Orð og tunga* 19:129–153.
