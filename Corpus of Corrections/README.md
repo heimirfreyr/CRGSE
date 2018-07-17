@@ -8,11 +8,11 @@ The ODF-formatted (`.ods`) file contains underlining as an approximation of the 
 
 Material still not read/covered yet in this list (cf. samples, see directory `TO DO`): 
 
-1890/Ísl. ritgjörd II (2) - 6. bekkur - Þjóðflokkar og ríkjaskipting í Evrópu
-1890/Ísl. ritgjörd II - Um Cromwell
-1890/Ísl. ritgjörd I vid burtfararpróf - 6. bekkur - Hvaða þýðingu hefur mentunin
-1890/Ísl. stíll - 3. bekkur B - frjáls ritun um landslag Rússlands
-1890/Ísl. stíll - 5. bekkur - árspróf - frjáls ritun um heilræði
+* 1890/Ísl. ritgjörd II (2) - 6. bekkur - Þjóðflokkar og ríkjaskipting í Evrópu
+* 1890/Ísl. ritgjörd II - Um Cromwell
+* 1890/Ísl. ritgjörd I vid burtfararpróf - 6. bekkur - Hvaða þýðingu hefur mentunin
+* 1890/Ísl. stíll - 3. bekkur B - frjáls ritun um landslag Rússlands
+*  1890/Ísl. stíll - 5. bekkur - árspróf - frjáls ritun um heilræði
 
 
 ### Basic version history (dd/mm/yyyy)
