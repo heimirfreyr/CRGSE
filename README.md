@@ -19,7 +19,7 @@ Over a thousand pages here on GitHub are just waiting to be transcribed. This is
  
 ![Proof of concept](https://uni.hi.is/hfv3/files/2018/07/transcription.png)
 
-See further a (partly overlapping) edition of a selection of 189 essays, published by Bragi Þorgrímur Ólafsson (2004), excluding corrections, in addition to discussion and examples in Heimir van der Feest Viðarsson (2016, 2017) and Alda B. Möller (2017).   
+See further a (partly overlapping) edition of a selection of 189 essays, published by Bragi Þorgrímur Ólafsson (2004), excluding corrections. For discussion and examples of essay corrections, see Heimir van der Feest Viðarsson (2016, 2017) and Alda B. Möller (2017).
 
 
 **References**
