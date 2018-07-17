@@ -18,7 +18,8 @@ Material still not read/covered yet in this list (cf. samples, see directory `TO
 ### Basic version history (dd/mm/yyyy)
 
 - 17-07-2018, version 0.1
-  - Initial public release
+  
+  Initial public release
 
   - Number of potential corrections (by teachers): 476
 
