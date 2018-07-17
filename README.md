@@ -11,4 +11,11 @@ Over a thousand pages here on GitHub are just waiting to be transcribed. This is
 ![Proof of concept](https://uni.hi.is/hfv3/files/2018/07/transcription.png)
 
 
+- See `issues` for info/proposals on how to annotate the corpus, including the teachers' corrections, based on the TEI guidelines (version P5).
 
+- See `transcription` for transcriptions of the student assignments.
+
+- See `TO DO` for photographs of yet-to-be-transcribed assignments.
+
+- See *Corpus of Corrections* for an overview of corrections.
+ 
