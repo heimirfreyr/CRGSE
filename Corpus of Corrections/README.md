@@ -15,7 +15,7 @@ Material still not read/covered yet in this list (cf. samples, see directory `TO
 1890/Ísl. stíll - 5. bekkur - árspróf - frjáls ritun um heilræði
 
 
-## Basic version history (dd/mm/yyyy)
+### Basic version history (dd/mm/yyyy)
 
 17-07-2018, version 0.1
 Initial public release
