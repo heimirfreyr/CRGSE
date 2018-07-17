@@ -8,9 +8,6 @@ A partial, experimental XML/TEI-based version of the text (1847-48) along with c
 
 Over a thousand pages here on GitHub are just waiting to be transcribed. This is but a fraction of the whole amount of Icelandic student assignments (1847-1909) preserved at the National Archives of Iceland, contained in no less than 123 large boxes. (Approx. 1 box per year until around 1880, later at least 2 and more often 3-4 boxes per year.)
 
-![Proof of concept](https://uni.hi.is/hfv3/files/2018/07/transcription.png)
-
-
 - See `issues` for info/proposals on how to annotate the corpus, including the teachers' corrections, based on the TEI guidelines (version P5).
 
 - See `transcription` for transcriptions of the student assignments.
@@ -19,3 +16,4 @@ Over a thousand pages here on GitHub are just waiting to be transcribed. This is
 
 - See *Corpus of Corrections* for an overview of corrections.
  
+![Proof of concept](https://uni.hi.is/hfv3/files/2018/07/transcription.png)
