@@ -1,6 +1,6 @@
 # Corpus of Corrections
 
-A concordance-type overview of linguistic corrections in the experimental corpus samples (1847-48, 1852, 1860-61, 1875, 1890). Included in this overview are all and any corrections of (potential) linguistic features in the Icelandic student essays (*ísl. ritgjörð*) as well as the Icelandic-Danish translations (*ísl. stíll*). 
+A concordance-type overview of linguistic corrections in the experimental corpus samples (1847-48, 1852, 1855, 1860-61, 1875, 1890). Included in this overview are all and any corrections of (potential) linguistic features in the Icelandic student essays (*ísl. ritgjörð*) as well as the Icelandic-Danish translations (*ísl. stíll*). 
 
 Corrections of spelling and punctuation are NOT included yet. 
 
