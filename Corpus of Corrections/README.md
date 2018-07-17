@@ -4,7 +4,7 @@ A concordance-type overview of linguistic corrections in the experimental corpus
 
 Corrections of spelling and punctuation are NOT included yet. 
 
-The ODF-formatted (`.ods`) file contains underlining, as an approximation of the location/extent/nature of each correction but does not indicate whether singly, doubly or triply underlined/dotted/overwritten etc.
+The ODF-formatted (`.ods`) file contains underlining as an approximation of the location/extent/nature of each correction but does not indicate whether singly, doubly or triply underlined/dotted/overwritten etc. Corrections are annotated for `variable` which states the basic feature involved (including subcategories), `corrected` which states whether or not corrected, `teacher` stating the teacher (where known), `class` stating the grade (grades 1-4, later 1st to 6th grade), `assignment` indicating the type of assignment (essay or translation), `year` specifying the year as stated by the box or assignment sleeve, `pupil` stating the name of the student, `file` referencing the image filename, `loc` indicating the image path (see TO DO) and, finally, `note` with some minor remarks, unclear features etc.
 
 Material still not read/covered yet in this list (cf. samples, see directory `TO DO`): 
 
