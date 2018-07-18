@@ -23,7 +23,7 @@ See further a (partly overlapping) edition of a selection of 189 essays, publish
 
 
 **References**
-- Möller, Alda B. 2017. Íslenskukennsla í Bessastaðaskóla 1806–1846 og á fyrstu árum Reykjavíkurskóla. *Orð og tunga/ 19:1–40.
+- Möller, Alda B. 2017. Íslenskukennsla í Bessastaðaskóla 1806–1846 og á fyrstu árum Reykjavíkurskóla. *Orð og tunga* 19:1–40.
 
 - Ólafsson, Bragi Þorgrímur. 2004. *Landsins útvöldu synir: Ritgerðir skólapilta Lærða skólans í íslenskum stíl 1846‒1904.* Sýnisbók íslenskrar alþýðumenningar 7. Reykjavík: Háskólaútgáfan.
 
